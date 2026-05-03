@@ -1,0 +1,25 @@
+
+        "visibility_rules":[
+            "$PaleReachDLC"
+        ],
+        "visibility_rules":[
+            "$IronRigDLC"
+        ],
+
+--------------------------------------------------------------
+
+        "visibility_rules":[
+            "$IronRigPhase1"
+        ],
+        "visibility_rules":[
+            "$IronRigPhase2"
+        ],
+        "visibility_rules":[
+            "$IronRigPhase3"
+        ],
+        "visibility_rules":[
+            "$IronRigPhase4"
+        ],
+        "visibility_rules":[
+            "$IronRigPhase5"
+        ],

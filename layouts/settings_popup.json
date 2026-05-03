@@ -1,0 +1,31 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "orientation": "horizontal",
+        "h_alignment": "left",
+        "content": [
+            {
+                "type": "group",
+                "header": "DLC Settings",
+                "dock": "bottom",
+                "content": [
+                    {
+				        "type": "itemgrid",
+				        "item_size": "350,70",
+				        "rows": [
+                            [ "palereachDLC" ],
+                            [ "ironrigDLC" ] 
+                        ]
+                    },
+                    {
+				        "type": "itemgrid",
+				        "item_size": "350,311",
+				        "rows": [
+                            [ "ironrigDLCprogression" ]
+                        ]
+                    }
+                ]
+			}
+        ]
+    }
+}

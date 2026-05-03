@@ -1,0 +1,2802 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "The Marrows",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crab - Common Crab",
+                        "ref": "Fish/Common Crab/"
+                    },
+                    {
+                        "name": "Crab - Cerebral Crab",
+                        "ref": "Fish/Cerebral Crab/"
+                    },
+                    {
+                        "name": "Crab - Fiddler Crab",
+                        "ref": "Fish/Fiddler Crab/"
+                    },
+                    {
+                        "name": "Crab - Malignant Pincer",
+                        "ref": "Fish/Malignant Pincer/"
+                    },
+                    {
+                        "name": "Crab - Sea Cucumber",
+                        "ref": "Fish/Sea Cucumber/"
+                    },
+                    {
+                        "name": "Crab - Inverted Husk",
+                        "ref": "Fish/Inverted Husk/"
+                    },
+
+                    {
+                        "name": "Dredge - Cloth 1",
+                        "ref": "The Marrows/Cloth 1(J-8)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 1",
+                        "ref": "The Marrows/Lumber 1(I-6)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 2",
+                        "ref": "The Marrows/Lumber 2(K-8)/"
+                    },
+                    {
+                        "name": "Dredge - Ornate Key",
+                        "ref": "The Marrows/Ornate Key(I-7)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 1",
+                        "ref": "The Marrows/Ring 1(K-8)/"
+                    },
+                    {
+                        "name": "Dredge - Belt Buckle",
+                        "ref": "The Marrows/Belt Buckle(L-8)/"
+                    },
+                    {
+                        "name": "Dredge - Iron Chain 1",
+                        "ref": "The Marrows/Iron Chain 1(L-8)/"
+                    },
+                    {
+                        "name": "Dredge - Earring 1",
+                        "ref": "The Marrows/Earring 1(K-9)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 2",
+                        "ref": "The Marrows/Cloth 2(L-8)/"
+                    },
+                    {
+                        "name": "Dredge - Silver Trinket",
+                        "ref": "The Marrows/Silver Trinket(I-6)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 1",
+                        "ref": "The Marrows/Scrap 1(L-8)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 3",
+                        "ref": "The Marrows/Lumber 3(K-8)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 2",
+                        "ref": "The Marrows/Scrap 2(I-6)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 3",
+                        "ref": "The Marrows/Scrap 3(J-9)/"
+                    },
+                    {
+                        "name": "Dredge - Metal 1",
+                        "ref": "The Marrows/Metal 1(J-8)/"
+                    },
+
+                    {
+                        "name": "Fish - Blue Mackerel",
+                        "ref": "Fish/Blue Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Grotesque Mackerel",
+                        "ref": "Fish/Grotesque Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Lumpy Mackerel",
+                        "ref": "Fish/Lumpy Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Many-Eyed Mackerel",
+                        "ref": "Fish/Many-Eyed Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Cod",
+                        "ref": "Fish/Cod/"
+                    },
+                    {
+                        "name": "Fish - All-Seeing Cod",
+                        "ref": "Fish/All-Seeing Cod/"
+                    },
+                    {
+                        "name": "Fish - Fanged Cod",
+                        "ref": "Fish/Fanged Cod/"
+                    },
+                    {
+                        "name": "Fish - Three-Headed Cod",
+                        "ref": "Fish/Three-Headed Cod/"
+                    },
+                    {
+                        "name": "Fish - Arrow Squid",
+                        "ref": "Fish/Arrow Squid/"
+                    },
+                    {
+                        "name": "Fish - Brood Squid",
+                        "ref": "Fish/Brood Squid/"
+                    },
+                    {
+                        "name": "Fish - Snag Squid",
+                        "ref": "Fish/Snag Squid/"
+                    },
+                    {
+                        "name": "Fish - Grey Eel",
+                        "ref": "Fish/Grey Eel/"
+                    },
+                    {
+                        "name": "Fish - Barbed Eel",
+                        "ref": "Fish/Barbed Eel/"
+                    },
+                    {
+                        "name": "Fish - Host Eel",
+                        "ref": "Fish/Host Eel/"
+                    },
+                    {
+                        "name": "Fish - Gulf Flounder",
+                        "ref": "Fish/Gulf Flounder/"
+                    },
+                    {
+                        "name": "Fish - Cyclopean Flounder",
+                        "ref": "Fish/Cyclopean Flounder/"
+                    },
+                    {
+                        "name": "Fish - Riddled Flounder",
+                        "ref": "Fish/Riddled Flounder/"
+                    },
+                    {
+                        "name": "Fish - Black Grouper",
+                        "ref": "Fish/Black Grouper/"
+                    },
+                    {
+                        "name": "Fish - Tusked Grouper",
+                        "ref": "Fish/Tusked Grouper/"
+                    },
+                    {
+                        "name": "Fish - Voltaic Grouper",
+                        "ref": "Fish/Voltaic Grouper/"
+                    },
+                    {
+                        "name": "Fish - Stingray",
+                        "ref": "Fish/Stingray/"
+                    },
+                    {
+                        "name": "Fish - Shard Ray",
+                        "ref": "Fish/Shard Ray/"
+                    },
+                    {
+                        "name": "Fish - Sailfish",
+                        "ref": "Fish/Sailfish/"
+                    },
+                    {
+                        "name": "Fish - Sallow Sailfish",
+                        "ref": "Fish/Sallow Sailfish/"
+                    },
+                    {
+                        "name": "Fish - Hooked Sailfish",
+                        "ref": "Fish/Hooked Sailfish/"
+                    },
+                    {
+                        "name": "Fish - Bronze Whaler",
+                        "ref": "Fish/Bronze Whaler/"
+                    },
+                    {
+                        "name": "Fish - Bloodskin Shark",
+                        "ref": "Fish/Bloodskin Shark/"
+                    },
+                    {
+                        "name": "Fish - Blacktip Reef Shark",
+                        "ref": "Fish/Blacktip Reef Shark/"
+                    },
+                    {
+                        "name": "Fish - Cleft-mouth Shark",
+                        "ref": "Fish/Cleft-mouth Shark/"
+                    },
+                    {
+                        "name": "Fish - Osteostracan",
+                        "ref": "Fish/Osteostracan/"
+                    },
+                    {
+                        "name": "Fish - Plated Osteostracan",
+                        "ref": "Fish/Plated Osteostracan/"
+                    },
+                    {
+                        "name": "Fish - Tullimonstrum",
+                        "ref": "Fish/Tullimonstrum/"
+                    },
+                    {
+                        "name": "Fish - Axial Matron",
+                        "ref": "Fish/Axial Matron/"
+                    },
+                    {
+                        "name": "Fish - Paddlefish",
+                        "ref": "Fish/Paddlefish/"
+                    },
+                    {
+                        "name": "Fish - Anvilfish",
+                        "ref": "Fish/Anvilfish/"
+                    },
+                    {
+                        "name": "Fish - Swordfish",
+                        "ref": "Fish/Swordfish/"
+                    },
+                    {
+                        "name": "Fish - Ivory Impaler",
+                        "ref": "Fish/Ivory Impaler/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 706,
+                        "y": 506,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Gale Cliffs",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crab - Rock Crab",
+                        "ref": "Fish/Rock Crab/"
+                    },
+                    {
+                        "name": "Crab - Splintered Crab",
+                        "ref": "Fish/Splintered Crab/"
+                    },
+                    {
+                        "name": "Crab - Decorator Crab",
+                        "ref": "Fish/Decorator Crab/"
+                    },
+                    {
+                        "name": "Crab - Cortex Decorator",
+                        "ref": "Fish/Cortex Decorator/"
+                    },
+                    {
+                        "name": "Crab - Trilobite",
+                        "ref": "Fish/Trilobite/"
+                    },
+                    {
+                        "name": "Crab - Cystic Trilobite",
+                        "ref": "Fish/Cystic Trilobite/"
+                    },
+
+                    {
+                        "name": "Dredge - Silver Trinket",
+                        "ref": "Gale Cliffs/Silver Trinket(O-5)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 1",
+                        "ref": "Gale Cliffs/Lumber 1(M-4)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 2",
+                        "ref": "Gale Cliffs/Lumber 2(O-4)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 3",
+                        "ref": "Gale Cliffs/Lumber 3(N-3)/"
+                    },
+                    {
+                        "name": "Dredge - Doubloon",
+                        "ref": "Gale Cliffs/Doubloon(O-3)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 4",
+                        "ref": "Gale Cliffs/Lumber 4(O-2)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 1",
+                        "ref": "Gale Cliffs/Scrap 1(O-4)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 2",
+                        "ref": "Gale Cliffs/Scrap 2(N-4)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 3",
+                        "ref": "Gale Cliffs/Scrap 3(N-3)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 4",
+                        "ref": "Gale Cliffs/Scrap 4(O-2)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 5",
+                        "ref": "Gale Cliffs/Scrap 5(O-4)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 1",
+                        "ref": "Gale Cliffs/Cloth 1(P-5)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 2",
+                        "ref": "Gale Cliffs/Cloth 2(O-4)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 1",
+                        "ref": "Gale Cliffs/Ring 1(O-2)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 3",
+                        "ref": "Gale Cliffs/Cloth 3(O-2)/"
+                    },
+                    {
+                        "name": "Dredge - Metal 1",
+                        "ref": "Gale Cliffs/Metal 1(O-4)/"
+                    },
+                    {
+                        "name": "Dredge - Musicbox",
+                        "ref": "Gale Cliffs/Musicbox(N-3)/"
+                    },
+                    {
+                        "name": "Dredge - Earring",
+                        "ref": "Gale Cliffs/Earring(N-3)/"
+                    },
+                    {
+                        "name": "Dredge - Family Crest",
+                        "ref": "Gale Cliffs/Family Crest(O-3)/"
+                    },
+                    {
+                        "name": "Dredge - Research Part 1",
+                        "ref": "Gale Cliffs/Research Part 1(N-4)/"
+                    },
+                    {
+                        "name": "Dredge - Bag of Doubloons",
+                        "ref": "Gale Cliffs/Bag of Doubloons(N-3)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 2",
+                        "ref": "Gale Cliffs/Ring 2(P-4)/"
+                    },
+                    {
+                        "name": "Dredge - Research Part 2",
+                        "ref": "Gale Cliffs/Research Part 2(P-2)/"
+                    },
+                    {
+                        "name": "Dredge - Flag 1",
+                        "ref": "Gale Cliffs/Flag 1(N-2)/"
+                    },
+
+                    {
+                        "name": "Fish - Oceanic Perch",
+                        "ref": "Fish/Oceanic Perch/"
+                    },
+                    {
+                        "name": "Fish - Gnashing Perch",
+                        "ref": "Fish/Gnashing Perch/"
+                    },
+                    {
+                        "name": "Fish - Tiger Mackerel",
+                        "ref": "Fish/Tiger Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Flayed Mackerel",
+                        "ref": "Fish/Flayed Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Bearded Mackerel",
+                        "ref": "Fish/Bearded Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Black Sea Bass",
+                        "ref": "Fish/Black Sea Bass/"
+                    },
+                    {
+                        "name": "Fish - Scouring Bass",
+                        "ref": "Fish/Scouring Bass/"
+                    },
+                    {
+                        "name": "Fish - Stonefish",
+                        "ref": "Fish/Stonefish/"
+                    },
+                    {
+                        "name": "Fish - Gelatinous Stonefish",
+                        "ref": "Fish/Gelatinous Stonefish/"
+                    },
+                    {
+                        "name": "Fish - Enthralled Stonefish",
+                        "ref": "Fish/Enthralled Stonefish/"
+                    },
+                    {
+                        "name": "Fish - Blackmouth Salmon",
+                        "ref": "Fish/Blackmouth Salmon/"
+                    },
+                    {
+                        "name": "Fish - Decaying Blackmouth",
+                        "ref": "Fish/Decaying Blackmouth/"
+                    },
+                    {
+                        "name": "Fish - Conger Eel",
+                        "ref": "Fish/Conger Eel/"
+                    },
+                    {
+                        "name": "Fish - Sprouting Eel",
+                        "ref": "Fish/Sprouting Eel/"
+                    },
+                    {
+                        "name": "Fish - Devil Ray",
+                        "ref": "Fish/Devil Ray/"
+                    },
+                    {
+                        "name": "Fish - Withered Ray",
+                        "ref": "Fish/Withered Ray/"
+                    },
+                    {
+                        "name": "Fish - Sturgeon",
+                        "ref": "Fish/Sturgeon/"
+                    },
+                    {
+                        "name": "Fish - Translucent Sturgeon",
+                        "ref": "Fish/Translucent Sturgeon/"
+                    },
+                    {
+                        "name": "Fish - Wreckfish",
+                        "ref": "Fish/Wreckfish/"
+                    },
+                    {
+                        "name": "Fish - Shattered Wreckfish",
+                        "ref": "Fish/Shattered Wreckfish/"
+                    },
+                    {
+                        "name": "Fish - Bony Wreckfish",
+                        "ref": "Fish/Bony Wreckfish/"
+                    },
+                    {
+                        "name": "Fish - Nautilus",
+                        "ref": "Fish/Nautilus/"
+                    },
+                    {
+                        "name": "Fish - Clutching Nautilus",
+                        "ref": "Fish/Clutching Nautilus/"
+                    },
+                    {
+                        "name": "Fish - Sollasina",
+                        "ref": "Fish/Sollasina/"
+                    },
+                    {
+                        "name": "Fish - Vagrant Sollasina",
+                        "ref": "Fish/Vagrant Sollasina/"
+                    },
+                    {
+                        "name": "Fish - Abyssal Gar",
+                        "ref": "Fish/Abyssal Gar/"
+                    },
+                    {
+                        "name": "Fish - Bifurcated Gar",
+                        "ref": "Fish/Bifurcated Gar/"
+                    },
+                    {
+                        "name": "Fish - Lancetfish",
+                        "ref": "Fish/Lancetfish/"
+                    },
+                    {
+                        "name": "Fish - Silvering Lancetfish",
+                        "ref": "Fish/Silvering Lancetfish/"
+                    },
+                    {
+                        "name": "Fish - Oarfish",
+                        "ref": "Fish/Oarfish/"
+                    },
+                    {
+                        "name": "Fish - Archons Burden",
+                        "ref": "Fish/Archons Burden/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 944,
+                        "y": 777,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Stellar Basin",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crab - Crown of Thorns",
+                        "ref": "Fish/Crown of Thorns/"
+                    },
+                    {
+                        "name": "Crab - Crown of Nadir",
+                        "ref": "Fish/Crown of Nadir/"
+                    },
+                    {
+                        "name": "Crab - Blue Crab",
+                        "ref": "Fish/Blue Crab/"
+                    },
+                    {
+                        "name": "Crab - Entangled Crab",
+                        "ref": "Fish/Entangled Crab/"
+                    },
+                    {
+                        "name": "Crab - Spiny Lobster",
+                        "ref": "Fish/Spiny Lobster/"
+                    },
+                    {
+                        "name": "Crab - Imperious Lobster",
+                        "ref": "Fish/Imperious Lobster/"
+                    },
+                    {
+                        "name": "Crab - Sea Slug",
+                        "ref": "Fish/Sea Slug/"
+                    },
+                    {
+                        "name": "Crab - Mimic Slug",
+                        "ref": "Fish/Mimic Slug/"
+                    },
+
+                    {
+                        "name": "Dredge - Ring Relic",
+                        "ref": "Stellar Basin/Ring Relic(F-3)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 1",
+                        "ref": "Stellar Basin/Ring 1(E-4)/"
+                    },
+                    {
+                        "name": "Dredge - Earring 1",
+                        "ref": "Stellar Basin/Earring 1(F-3)/"
+                    },
+                    {
+                        "name": "Dredge - Bag of Doubloons",
+                        "ref": "Stellar Basin/Bag of Doubloons(G-5)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 1",
+                        "ref": "Stellar Basin/Scrap 1(G-5)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 1",
+                        "ref": "Stellar Basin/Lumber 1(D-3)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 2",
+                        "ref": "Stellar Basin/Lumber 2(E-4)/"
+                    },
+                    {
+                        "name": "Dredge - Research Part 1",
+                        "ref": "Stellar Basin/Research Part 1(G-2)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 3",
+                        "ref": "Stellar Basin/Lumber 3(G-2)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 4",
+                        "ref": "Stellar Basin/Lumber 4(G-2)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 1",
+                        "ref": "Stellar Basin/Cloth 1(G-2)/"
+                    },
+                    {
+                        "name": "Dredge - Metal 1",
+                        "ref": "Stellar Basin/Metal 1(G-2)/"
+                    },
+                    {
+                        "name": "Dredge - Research Part 2",
+                        "ref": "Stellar Basin/Research Part 2(G-4)/"
+                    },
+                    {
+                        "name": "Dredge - Earring 2",
+                        "ref": "Stellar Basin/Earring 2(F-4)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 2",
+                        "ref": "Stellar Basin/Ring 2(E-4)/"
+                    },
+                    {
+                        "name": "Dredge - Doubloon",
+                        "ref": "Stellar Basin/Doubloon(E-3)/"
+                    },
+                    {
+                        "name": "Dredge - Sextant",
+                        "ref": "Stellar Basin/Sextant(F-3)/"
+                    },
+                    {
+                        "name": "Dredge - Broken Spectacles",
+                        "ref": "Stellar Basin/Broken Spectacles(G-4)/"
+                    },
+                    {
+                        "name": "Dredge - Flag 1",
+                        "ref": "Stellar Basin/Flag 1(G-2)/"
+                    },
+
+                    {
+                        "name": "Fish - Aurora Jellyfish",
+                        "ref": "Fish/Aurora Jellyfish/"
+                    },
+                    {
+                        "name": "Fish - Parhelion Jellyfish",
+                        "ref": "Fish/Parhelion Jellyfish/"
+                    },
+                    {
+                        "name": "Fish - Fangtooth",
+                        "ref": "Fish/Fangtooth/"
+                    },
+                    {
+                        "name": "Fish - Cursed Fangtooth",
+                        "ref": "Fish/Cursed Fangtooth/"
+                    },
+                    {
+                        "name": "Fish - Barreleye",
+                        "ref": "Fish/Barreleye/"
+                    },
+                    {
+                        "name": "Fish - Voideye",
+                        "ref": "Fish/Voideye/"
+                    },
+                    {
+                        "name": "Fish - Firefly Squid",
+                        "ref": "Fish/Firefly Squid/"
+                    },
+                    {
+                        "name": "Fish - Radiant Squid",
+                        "ref": "Fish/Radiant Squid/"
+                    },
+                    {
+                        "name": "Fish - Red Snapper",
+                        "ref": "Fish/Red Snapper/"
+                    },
+                    {
+                        "name": "Fish - Blood Snapper",
+                        "ref": "Fish/Blood Snapper/"
+                    },
+                    {
+                        "name": "Fish - Latching Snapper",
+                        "ref": "Fish/Latching Snapper/"
+                    },
+                    {
+                        "name": "Fish - Giant Amphipod",
+                        "ref": "Fish/Giant Amphipod/"
+                    },
+                    {
+                        "name": "Fish - Ruptured Vessel",
+                        "ref": "Fish/Ruptured Vessel/"
+                    },
+                    {
+                        "name": "Fish - Loosejaw",
+                        "ref": "Fish/Loosejaw/"
+                    },
+                    {
+                        "name": "Fish - Perished Loosejaw",
+                        "ref": "Fish/Perished Loosejaw/"
+                    },
+                    {
+                        "name": "Fish - Snailfish",
+                        "ref": "Fish/Snailfish/"
+                    },
+                    {
+                        "name": "Fish - Calcified Snailfish",
+                        "ref": "Fish/Calcified Snailfish/"
+                    },
+                    {
+                        "name": "Fish - Seizing Snailfish",
+                        "ref": "Fish/Seizing Snailfish/"
+                    },
+                    {
+                        "name": "Fish - Coral Grouper",
+                        "ref": "Fish/Coral Grouper/"
+                    },
+                    {
+                        "name": "Fish - Consumed Grouper",
+                        "ref": "Fish/Consumed Grouper/"
+                    },
+                    {
+                        "name": "Fish - Glowing Octopus",
+                        "ref": "Fish/Glowing Octopus/"
+                    },
+                    {
+                        "name": "Fish - Medusa Octopus",
+                        "ref": "Fish/Medusa Octopus/"
+                    },
+                    {
+                        "name": "Fish - Anglerfish",
+                        "ref": "Fish/Anglerfish/"
+                    },
+                    {
+                        "name": "Fish - Bursting Anglerfish",
+                        "ref": "Fish/Bursting Anglerfish/"
+                    },
+                    {
+                        "name": "Fish - Barracuda",
+                        "ref": "Fish/Barracuda/"
+                    },
+                    {
+                        "name": "Fish - Savage Barracuda",
+                        "ref": "Fish/Savage Barracuda/"
+                    },
+                    {
+                        "name": "Fish - Concertina Barracuda",
+                        "ref": "Fish/Concertina Barracuda/"
+                    },
+                    {
+                        "name": "Fish - Hammerhead Shark",
+                        "ref": "Fish/Hammerhead Shark/"
+                    },
+                    {
+                        "name": "Fish - Gazing Shark",
+                        "ref": "Fish/Gazing Shark/"
+                    },
+                    {
+                        "name": "Fish - Mahi Mahi",
+                        "ref": "Fish/Mahi Mahi/"
+                    },
+                    {
+                        "name": "Fish - Xeno Xeno",
+                        "ref": "Fish/Xeno Xeno/"
+                    },
+                    {
+                        "name": "Fish - Tripod Spiderfish",
+                        "ref": "Fish/Tripod Spiderfish/"
+                    },
+                    {
+                        "name": "Fish - Stalking Spiderfish",
+                        "ref": "Fish/Stalking Spiderfish/"
+                    },
+                    {
+                        "name": "Fish - Kerygmachela",
+                        "ref": "Fish/Kerygmachela/"
+                    },
+                    {
+                        "name": "Fish - Drifting Chrysalis",
+                        "ref": "Fish/Drifting Chrysalis/"
+                    },
+                    {
+                        "name": "Fish - Eagle Shark",
+                        "ref": "Fish/Eagle Shark/"
+                    },
+                    {
+                        "name": "Fish - Sanguine Shark",
+                        "ref": "Fish/Sanguine Shark/"
+                    },
+                    {
+                        "name": "Fish - Gulper Eel",
+                        "ref": "Fish/Gulper Eel/"
+                    },
+                    {
+                        "name": "Fish - Famines End",
+                        "ref": "Fish/Famines End/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 399,
+                        "y": 789,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Twisted Strand",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crab - Horseshoe Crab",
+                        "ref": "Fish/Horseshoe Crab/"
+                    },
+                    {
+                        "name": "Crab - Effigy Crab",
+                        "ref": "Fish/Effigy Crab/"
+                    },
+                    {
+                        "name": "Crab - Giant Mud Crab",
+                        "ref": "Fish/Giant Mud Crab/"
+                    },
+                    {
+                        "name": "Crab - Mire Screecher",
+                        "ref": "Fish/Mire Screecher/"
+                    },
+                    {
+                        "name": "Crab - Nipponites",
+                        "ref": "Fish/Nipponites/"
+                    },
+                    {
+                        "name": "Crab - Wretched Nipper",
+                        "ref": "Fish/Wretched Nipper/"
+                    },
+
+                    {
+                        "name": "Dredge - Mortar 1",
+                        "ref": "Twisted Strand/Mortar 1(E-14)/"
+                    },
+                    {
+                        "name": "Dredge - Mortar 2",
+                        "ref": "Twisted Strand/Mortar 2(G-13)/"
+                    },
+                    {
+                        "name": "Dredge - Dog Tag 1",
+                        "ref": "Twisted Strand/Dog Tag 1(H-13)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 1",
+                        "ref": "Twisted Strand/Lumber 1(H-14)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 2",
+                        "ref": "Twisted Strand/Lumber 2(E-15)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 3",
+                        "ref": "Twisted Strand/Lumber 3(D-12)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 4",
+                        "ref": "Twisted Strand/Lumber 4(F-14)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 1",
+                        "ref": "Twisted Strand/Scrap 1(F-15)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 2",
+                        "ref": "Twisted Strand/Scrap 2(E-14)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 3",
+                        "ref": "Twisted Strand/Scrap 3(G-13)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 1",
+                        "ref": "Twisted Strand/Cloth 1(D-12)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 2",
+                        "ref": "Twisted Strand/Cloth 2(G-14)/"
+                    },
+                    {
+                        "name": "Dredge - Metal 1",
+                        "ref": "Twisted Strand/Metal 1(E-14)/"
+                    },
+                    {
+                        "name": "Dredge - Earring",
+                        "ref": "Twisted Strand/Earring(F-14)/"
+                    },
+                    {
+                        "name": "Dredge - Broken Monocle",
+                        "ref": "Twisted Strand/Broken Monocle(F-13)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 1",
+                        "ref": "Twisted Strand/Ring 1(E-12)/"
+                    },
+
+                    {
+                        "name": "Fish - Grey Mullet",
+                        "ref": "Fish/Grey Mullet/"
+                    },
+                    {
+                        "name": "Fish - Entwined Mullet",
+                        "ref": "Fish/Entwined Mullet/"
+                    },
+                    {
+                        "name": "Fish - Gleaming Mullet",
+                        "ref": "Fish/Gleaming Mullet/"
+                    },
+                    {
+                        "name": "Fish - Tarpon",
+                        "ref": "Fish/Tarpon/"
+                    },
+                    {
+                        "name": "Fish - Blistered Tarpon",
+                        "ref": "Fish/Blistered Tarpon/"
+                    },
+                    {
+                        "name": "Fish - Sergeant Fish",
+                        "ref": "Fish/Sergeant Fish/"
+                    },
+                    {
+                        "name": "Fish - Vortex Interloper",
+                        "ref": "Fish/Vortex Interloper/"
+                    },
+                    {
+                        "name": "Fish - Gar",
+                        "ref": "Fish/Gar/"
+                    },
+                    {
+                        "name": "Fish - Clawfin Gar",
+                        "ref": "Fish/Clawfin Gar/"
+                    },
+                    {
+                        "name": "Fish - Grinning Gar",
+                        "ref": "Fish/Grinning Gar/"
+                    },
+                    {
+                        "name": "Fish - Longfin Eel",
+                        "ref": "Fish/Longfin Eel/"
+                    },
+                    {
+                        "name": "Fish - Twinned Eels",
+                        "ref": "Fish/Twinned Eels/"
+                    },
+                    {
+                        "name": "Fish - Catfish",
+                        "ref": "Fish/Catfish/"
+                    },
+                    {
+                        "name": "Fish - Nightwing Catfish",
+                        "ref": "Fish/Nightwing Catfish/"
+                    },
+                    {
+                        "name": "Fish - Opabinia",
+                        "ref": "Fish/Opabinia/"
+                    },
+                    {
+                        "name": "Fish - Crawling Instar",
+                        "ref": "Fish/Crawling Instar/"
+                    },
+                    {
+                        "name": "Fish - Boreaspis",
+                        "ref": "Fish/Boreaspis/"
+                    },
+                    {
+                        "name": "Fish - Boreal Shell",
+                        "ref": "Fish/Boreal Shell/"
+                    },
+                    {
+                        "name": "Fish - Arapaima",
+                        "ref": "Fish/Arapaima/"
+                    },
+                    {
+                        "name": "Fish - Broken Arapaima",
+                        "ref": "Fish/Broken Arapaima/"
+                    },
+                    {
+                        "name": "Fish - Xiphactinus",
+                        "ref": "Fish/Xiphactinus/"
+                    },
+                    {
+                        "name": "Fish - Primordial Shadow",
+                        "ref": "Fish/Primordial Shadow/"
+                    },
+                    {
+                        "name": "Fish - Goliath Tigerfish",
+                        "ref": "Fish/Goliath Tigerfish/"
+                    },
+                    {
+                        "name": "Fish - Brutes Crux",
+                        "ref": "Fish/Brutes Crux/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 394,
+                        "y": 197,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Devils Spine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crab - Volcano Snail",
+                        "ref": "Fish/Volcano Snail/"
+                    },
+                    {
+                        "name": "Crab - Grasping Snail",
+                        "ref": "Fish/Grasping Snail/"
+                    },
+                    {
+                        "name": "Crab - Squat Lobster",
+                        "ref": "Fish/Squat Lobster/"
+                    },
+                    {
+                        "name": "Crab - Sable Reacher",
+                        "ref": "Fish/Sable Reacher/"
+                    },
+                    {
+                        "name": "Crab - Spider Crab",
+                        "ref": "Fish/Spider Crab/"
+                    },
+                    {
+                        "name": "Crab - Umbral Puppet",
+                        "ref": "Fish/Umbral Puppet/"
+                    },
+                    {
+                        "name": "Crab - Sea Scorpion",
+                        "ref": "Fish/Sea Scorpion/"
+                    },
+                    {
+                        "name": "Crab - Erupting Scorpion",
+                        "ref": "Fish/Erupting Scorpion/"
+                    },
+
+                    {
+                        "name": "Dredge - Tablet 1",
+                        "ref": "Devils Spine/Tablet 1(N-14)/"
+                    },
+                    {
+                        "name": "Dredge - Tablet 2",
+                        "ref": "Devils Spine/Tablet 2(Q-13)/"
+                    },
+                    {
+                        "name": "Dredge - Tablet 3",
+                        "ref": "Devils Spine/Tablet 3(P-13)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 1",
+                        "ref": "Devils Spine/Lumber 1(O-15)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 1",
+                        "ref": "Devils Spine/Cloth 1(N-13)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 2",
+                        "ref": "Devils Spine/Lumber 2(P-13)/"
+                    },
+                    {
+                        "name": "Dredge - Silver Plate 1",
+                        "ref": "Devils Spine/Silver Plate 1(Q-12)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 3",
+                        "ref": "Devils Spine/Lumber 3(O-13)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 1",
+                        "ref": "Devils Spine/Scrap 1(O-13)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 2",
+                        "ref": "Devils Spine/Cloth 2(Q-12)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 2",
+                        "ref": "Devils Spine/Scrap 2(P-13)/"
+                    },
+                    {
+                        "name": "Dredge - Silver Plate 2",
+                        "ref": "Devils Spine/Silver Plate 2(O-15)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 3",
+                        "ref": "Devils Spine/Scrap 2(O-13)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 3",
+                        "ref": "Devils Spine/Cloth 3(P-14)/"
+                    },
+                    {
+                        "name": "Dredge - Broken Spectacles",
+                        "ref": "Devils Spine/Broken Spectacles(O-13)/"
+                    },
+                    {
+                        "name": "Dredge - Goblet 1",
+                        "ref": "Devils Spine/Goblet 1(Q-12)/"
+                    },
+                    {
+                        "name": "Dredge - Metal 1",
+                        "ref": "Devils Spine/Metal 1(O-14)/"
+                    },
+                    {
+                        "name": "Dredge - Doubloon",
+                        "ref": "Devils Spine/Doubloon(P-14)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 1",
+                        "ref": "Devils Spine/Ring 1(P-14)/"
+                    },
+                    {
+                        "name": "Dredge - Sextant",
+                        "ref": "Devils Spine/Sextant(O-14)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 2",
+                        "ref": "Devils Spine/Ring 2(P-15)/"
+                    },
+                    {
+                        "name": "Dredge - Earring 1",
+                        "ref": "Devils Spine/Earring 1(N-14)/"
+                    },
+                    {
+                        "name": "Dredge - Goblet 2",
+                        "ref": "Devils Spine/Goblet 2(P-12/"
+                    },
+                    {
+                        "name": "Dredge - Earring 2",
+                        "ref": "Devils Spine/Earring 2(Q-14)/"
+                    },
+                    {
+                        "name": "Dredge - Ring 3",
+                        "ref": "Devils Spine/Ring 3(P-13)/"
+                    },
+                    {
+                        "name": "Dredge - Earring 3",
+                        "ref": "Devils Spine/Earring 3(P-14)/"
+                    },
+                    {
+                        "name": "Dredge - Flag 1",
+                        "ref": "Devils Spine/Flag 1(P-14)/"
+                    },
+
+                    {
+                        "name": "Fish - Armored Searobin",
+                        "ref": "Fish/Armored Searobin/"
+                    },
+                    {
+                        "name": "Fish - Ossified Searobin",
+                        "ref": "Fish/Ossified Searobin/"
+                    },
+                    {
+                        "name": "Fish - Cusk Eel",
+                        "ref": "Fish/Cusk Eel/"
+                    },
+                    {
+                        "name": "Fish - Infernal Eel",
+                        "ref": "Fish/Infernal Eel/"
+                    },
+                    {
+                        "name": "Fish - Snake Mackerel",
+                        "ref": "Fish/Snake Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Serpentine Mackerel",
+                        "ref": "Fish/Serpentine Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Tattered Mackerel",
+                        "ref": "Fish/Tattered Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Pale Skate",
+                        "ref": "Fish/Pale Skate/"
+                    },
+                    {
+                        "name": "Fish - Defaced Skate",
+                        "ref": "Fish/Defaced Skate/"
+                    },
+                    {
+                        "name": "Fish - Ghost Shark",
+                        "ref": "Fish/Ghost Shark/"
+                    },
+                    {
+                        "name": "Rapt Shark",
+                        "ref": "Fish/Rapt Shark/"
+                    },
+                    {
+                        "name": "Fish - Frilled Shark",
+                        "ref": "Fish/Frilled Shark/"
+                    },
+                    {
+                        "name": "Fish - Twisted Shark",
+                        "ref": "Fish/Twisted Shark/"
+                    },
+                    {
+                        "name": "Fish - Vetulicolia",
+                        "ref": "Fish/Vetulicolia/"
+                    },
+                    {
+                        "name": "Fish - Unveiled Vetulicolia",
+                        "ref": "Fish/Unveiled Vetulicolia/"
+                    },
+                    {
+                        "name": "Fish - Sawfish",
+                        "ref": "Fish/Sawfish/"
+                    },
+                    {
+                        "name": "Fish - Plated Barbjaw",
+                        "ref": "Fish/Plated Barbjaw/"
+                    },
+                    {
+                        "name": "Fish - Giant Dragonfish",
+                        "ref": "Fish/Giant Dragonfish/"
+                    },
+                    {
+                        "name": "Fish - Untouchable Wyrmfish",
+                        "ref": "Fish/Untouchable Wyrmfish/"
+                    },
+                    {
+                        "name": "Fish - Dunkleosteus",
+                        "ref": "Fish/Dunkleosteus/"
+                    },
+                    {
+                        "name": "Fish - Excoriated Fiend",
+                        "ref": "Fish/Excoriated Fiend/"
+                    },
+                    {
+                        "name": "Fish - Coelacanth",
+                        "ref": "Fish/Coelacanth/"
+                    },
+                    {
+                        "name": "Fish - Shapers Prime",
+                        "ref": "Fish/Shapers Prime/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 978,
+                        "y": 203,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Pale Reach",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "visibility_rules":[
+                    "$PaleReachDLC"
+                ],
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crab - Sea Stars",
+                        "ref": "Fish/Sea Stars/"
+                    },
+                    {
+                        "name": "Crab - Fallen Stars",
+                        "ref": "Fish/Fallen Stars/"
+                    },
+                    {
+                        "name": "Crab - King Crab",
+                        "ref": "Fish/King Crab/"
+                    },
+                    {
+                        "name": "Crab - Kings Wreath",
+                        "ref": "Fish/Kings Wreath/"
+                    },
+
+                    {
+                        "name": "Dredge - Icebreaker 1",
+                        "ref": "Pale Reach/Icebreaker 1(I--4)/"
+                    },
+                    {
+                        "name": "Dredge - Icebreaker 2",
+                        "ref": "Pale Reach/Icebreaker 2(J--6)/"
+                    },
+                    {
+                        "name": "Dredge - Icebreaker 3",
+                        "ref": "Pale Reach/Icebreaker 3(F--4)/"
+                    },
+                    {
+                        "name": "Dredge - Ice Axe 1",
+                        "ref": "Pale Reach/Ice Axe 1(G--7)/"
+                    },
+                    {
+                        "name": "Dredge - Ice Axe 2",
+                        "ref": "Pale Reach/Ice Axe 2(K--4)/"
+                    },
+                    {
+                        "name": "Dredge - Ice Axe 3",
+                        "ref": "Pale Reach/Ice Axe 3(F--5)/"
+                    },
+                    {
+                        "name": "Dredge - Ice Axe 4",
+                        "ref": "Pale Reach/Ice Axe 4(J--4)/"
+                    },
+                    {
+                        "name": "Dredge - Ice Shaper",
+                        "ref": "Pale Reach/Ice Shaper(H--3)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 1",
+                        "ref": "Pale Reach/Lumber 1(H--1)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 2",
+                        "ref": "Pale Reach/Lumber 2(G--4)/"
+                    },
+                    {
+                        "name": "Dredge - Lumber 3",
+                        "ref": "Pale Reach/Lumber 3(I--5)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 1",
+                        "ref": "Pale Reach/Scrap 1(K--6)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 2",
+                        "ref": "Pale Reach/Scrap 2(F--3)/"
+                    },
+                    {
+                        "name": "Dredge - Scrap 3",
+                        "ref": "Pale Reach/Scrap 3(F--6)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 1",
+                        "ref": "Pale Reach/Cloth 1(I--6)/"
+                    },
+                    {
+                        "name": "Dredge - Cloth 2",
+                        "ref": "Pale Reach/Cloth 2(J--4)/"
+                    },
+                    {
+                        "name": "Dredge - Metal 1",
+                        "ref": "Pale Reach/Metal 1(H--3)/"
+                    },
+                    {
+                        "name": "Dredge - Ring",
+                        "ref": "Pale Reach/Ring(J--6)/"
+                    },
+                    {
+                        "name": "Dredge - Teleport Anchor",
+                        "ref": "Pale Reach/Teleport Anchor(G--7)/"
+                    },
+
+                    {
+                        "name": "Fish - Icefish",
+                        "ref": "Fish/Icefish/"
+                    },
+                    {
+                        "name": "Fish - Fractalline Icefish",
+                        "ref": "Fish/Fractalline Icefish/"
+                    },
+                    {
+                        "name": "Fish - Thawed Icefish",
+                        "ref": "Fish/Thawed Icefish/"
+                    },
+                    {
+                        "name": "Fish - Astral Icefish",
+                        "ref": "Fish/Astral Icefish/"
+                    },
+                    {
+                        "name": "Fish - Char",
+                        "ref": "Fish/Char/"
+                    },
+                    {
+                        "name": "Fish - Bubbling Char",
+                        "ref": "Fish/Bubbling Char/"
+                    },
+                    {
+                        "name": "Fish - Wolffish",
+                        "ref": "Fish/Wolffish/"
+                    },
+                    {
+                        "name": "Fish - Hinged Wolffish",
+                        "ref": "Fish/Hinged Wolffish/"
+                    },
+                    {
+                        "name": "Fish - Stargazer",
+                        "ref": "Fish/Stargazer/"
+                    },
+                    {
+                        "name": "Fish - Craterous Seer",
+                        "ref": "Fish/Craterous Seer/"
+                    },
+                    {
+                        "name": "Fish - Lizardfish",
+                        "ref": "Fish/Lizardfish/"
+                    },
+                    {
+                        "name": "Fish - Feral Lizardfish",
+                        "ref": "Fish/Feral Lizardfish/"
+                    },
+                    {
+                        "name": "Fish - Toothfish",
+                        "ref": "Fish/Toothfish/"
+                    },
+                    {
+                        "name": "Fish - Bulbous Toothfish",
+                        "ref": "Fish/Bulbous Toothfish/"
+                    },
+                    {
+                        "name": "Fish - Goblin Shark",
+                        "ref": "Fish/Goblin Shark/"
+                    },
+                    {
+                        "name": "Fish - Grisly Shark",
+                        "ref": "Fish/Grisly Shark/"
+                    },
+                    {
+                        "name": "Fish - Colossal Squid",
+                        "ref": "Fish/Colossal Squid/"
+                    },
+                    {
+                        "name": "Fish - Pale Grasper",
+                        "ref": "Fish/Pale Grasper/"
+                    },
+                    {
+                        "name": "Fish - Sleeper Shark",
+                        "ref": "Fish/Sleeper Shark/"
+                    },
+                    {
+                        "name": "Fish - Sleepers Torment",
+                        "ref": "Fish/Sleepers Torment/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 604,
+                        "y": 1158,
+                        "size": 40,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Nets Only Fish",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Anchovy",
+                        "ref": "Fish/Anchovy/"
+                    },
+                    {
+                        "name": "Anchovy King",
+                        "ref": "Fish/Anchovy King/"
+                    },
+                    {
+                        "name": "Scarlet Prawn",
+                        "ref": "Fish/Scarlet Prawn/"
+                    },
+                    {
+                        "name": "Leeching Prawn",
+                        "ref": "Fish/Leeching Prawn/"
+                    },
+
+                    {
+                        "name": "Stellar Bassin - Aurora Jellyfish",
+                        "ref": "Fish/Aurora Jellyfish/"
+                    },
+                    {
+                        "name": "Stellar Bassin - Parhelion Jellyfish",
+                        "ref": "Fish/Parhelion Jellyfish/"
+                    },
+
+                    {
+                        "name": "The Pale Reach - Stargazer",
+                        "ref": "Fish/Stargazer/"
+                    },
+                    {
+                        "name": "The Pale Reach - Craterous Seer",
+                        "ref": "Fish/Craterous Seer/"
+                    },
+                    {
+                        "name": "The Pale Reach - Colossal Squid",
+                        "ref": "Fish/Colossal Squid/"
+                    },
+                    {
+                        "name": "The Pale Reach - Pale Grasper",
+                        "ref": "Fish/Pale Grasper/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1020,
+                        "y": 1300,
+                        "size": 40,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Quest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Quest - Ornate Key",
+                        "ref": "Quest/Ornate Key/"
+                    },
+                    {
+                        "name": "Quest - Rusted Music Box",
+                        "ref": "Quest/Rusted Music Box/"
+                    },
+                    {
+                        "name": "Quest - Jewel Encrusted Band",
+                        "ref": "Quest/Jewel Encrusted Band/"
+                    },
+                    {
+                        "name": "Quest - Shimmering Necklace",
+                        "ref": "Quest/Shimmering Necklace/"
+                    },
+                    {
+                        "name": "Quest - Antique Pocket Watch",
+                        "ref": "Quest/Antique Pocket Watch/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 708,
+                        "y": 585,
+                        "size": 20
+                    }
+                ]
+            },
+            {
+                "name": "Fish",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Fish - Abyssal Gar",
+                        "ref": "Fish/Abyssal Gar/"
+                    },
+                    {
+                        "name": "Fish - All-Seeing Cod",
+                        "ref": "Fish/All-Seeing Cod/"
+                    },
+                    {
+                        "name": "Fish - Anchovy King",
+                        "ref": "Fish/Anchovy King/"
+                    },
+                    {
+                        "name": "Fish - Anchovy",
+                        "ref": "Fish/Anchovy/"
+                    },
+                    {
+                        "name": "Fish - Anglerfish",
+                        "ref": "Fish/Anglerfish/"
+                    },
+                    {
+                        "name": "Fish - Anvilfish",
+                        "ref": "Fish/Anvilfish/"
+                    },
+                    {
+                        "name": "Fish - Arapaima",
+                        "ref": "Fish/Arapaima/"
+                    },
+                    {
+                        "name": "Fish - Archons Burden",
+                        "ref": "Fish/Archons Burden/"
+                    },
+                    {
+                        "name": "Fish - Armored Searobin",
+                        "ref": "Fish/Armored Searobin/"
+                    },
+                    {
+                        "name": "Fish - Arrow Squid",
+                        "ref": "Fish/Arrow Squid/"
+                    },
+                    {
+                        "name": "Fish - Astral Icefish",
+                        "ref": "Fish/Astral Icefish/"
+                    },
+                    {
+                        "name": "Fish - Aurora Jellyfish",
+                        "ref": "Fish/Aurora Jellyfish/"
+                    },
+                    {
+                        "name": "Fish - Axial Matron",
+                        "ref": "Fish/Axial Matron/"
+                    },
+                    {
+                        "name": "Fish - Barbed Eel",
+                        "ref": "Fish/Barbed Eel/"
+                    },
+                    {
+                        "name": "Fish - Barracuda",
+                        "ref": "Fish/Barracuda/"
+                    },
+                    {
+                        "name": "Fish - Barreleye",
+                        "ref": "Fish/Barreleye/"
+                    },
+                    {
+                        "name": "Fish - Beaked Moonfish",
+                        "ref": "Fish/Beaked Moonfish/"
+                    },
+                    {
+                        "name": "Fish - Bearded Mackerel",
+                        "ref": "Fish/Bearded Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Bifurcated Gar",
+                        "ref": "Fish/Bifurcated Gar/"
+                    },
+                    {
+                        "name": "Fish - Black Grouper",
+                        "ref": "Fish/Black Grouper/"
+                    },
+                    {
+                        "name": "Fish - Black Sea Bass",
+                        "ref": "Fish/Black Sea Bass/"
+                    },
+                    {
+                        "name": "Fish - Blackfin Tuna",
+                        "ref": "Fish/Blackfin Tuna/"
+                    },
+                    {
+                        "name": "Fish - Blackmouth Salmon",
+                        "ref": "Fish/Blackmouth Salmon/"
+                    },
+                    {
+                        "name": "Fish - Blacktip Reef Shark",
+                        "ref": "Fish/Blacktip Reef Shark/"
+                    },
+                    {
+                        "name": "Fish - Blistered Tarpon",
+                        "ref": "Fish/Blistered Tarpon/"
+                    },
+                    {
+                        "name": "Fish - Blood Snapper",
+                        "ref": "Fish/Blood Snapper/"
+                    },
+                    {
+                        "name": "Fish - Bloodskin Shark",
+                        "ref": "Fish/Bloodskin Shark/"
+                    },
+                    {
+                        "name": "Fish - Blue Mackerel",
+                        "ref": "Fish/Blue Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Bony Wreckfish",
+                        "ref": "Fish/Bony Wreckfish/"
+                    },
+                    {
+                        "name": "Fish - Boreal Shell",
+                        "ref": "Fish/Boreal Shell/"
+                    },
+                    {
+                        "name": "Fish - Boreaspis",
+                        "ref": "Fish/Boreaspis/"
+                    },
+                    {
+                        "name": "Fish - Broken Arapaima",
+                        "ref": "Fish/Broken Arapaima/"
+                    },
+                    {
+                        "name": "Fish - Bronze Whaler",
+                        "ref": "Fish/Bronze Whaler/"
+                    },
+                    {
+                        "name": "Fish - Brood Squid",
+                        "ref": "Fish/Brood Squid/"
+                    },
+                    {
+                        "name": "Fish - Brutes Crux",
+                        "ref": "Fish/Brutes Crux/"
+                    },
+                    {
+                        "name": "Fish - Bubbling Char",
+                        "ref": "Fish/Bubbling Char/"
+                    },
+                    {
+                        "name": "Fish - Bulbous Toothfish",
+                        "ref": "Fish/Bulbous Toothfish/"
+                    },
+                    {
+                        "name": "Fish - Bursting Anglerfish",
+                        "ref": "Fish/Bursting Anglerfish/"
+                    },
+                    {
+                        "name": "Fish - Calcified Snailfish",
+                        "ref": "Fish/Calcified Snailfish/"
+                    },
+                    {
+                        "name": "Fish - Catfish",
+                        "ref": "Fish/Catfish/"
+                    },
+                    {
+                        "name": "Fish - Char",
+                        "ref": "Fish/Char/"
+                    },
+                    {
+                        "name": "Fish - Charred Sunfish",
+                        "ref": "Fish/Charred Sunfish/"
+                    },
+                    {
+                        "name": "Fish - Clawfin Gar",
+                        "ref": "Fish/Clawfin Gar/"
+                    },
+                    {
+                        "name": "Fish - Cleft-mouth Shark",
+                        "ref": "Fish/Cleft-mouth Shark/"
+                    },
+                    {
+                        "name": "Fish - Clutching Nautilus",
+                        "ref": "Fish/Clutching Nautilus/"
+                    },
+                    {
+                        "name": "Fish - Cod",
+                        "ref": "Fish/Cod/"
+                    },
+                    {
+                        "name": "Fish - Coelacanth",
+                        "ref": "Fish/Coelacanth/"
+                    },
+                    {
+                        "name": "Fish - Collapsed Viperfish",
+                        "ref": "Fish/Collapsed Viperfish/"
+                    },
+                    {
+                        "name": "Fish - Colossal Squid",
+                        "ref": "Fish/Colossal Squid/"
+                    },
+                    {
+                        "name": "Fish - Concertina Barracuda",
+                        "ref": "Fish/Concertina Barracuda/"
+                    },
+                    {
+                        "name": "Fish - Congealed Rattail",
+                        "ref": "Fish/Congealed Rattail/"
+                    },
+                    {
+                        "name": "Fish - Conger Eel",
+                        "ref": "Fish/Conger Eel/"
+                    },
+                    {
+                        "name": "Fish - Consumed Grouper",
+                        "ref": "Fish/Consumed Grouper/"
+                    },
+                    {
+                        "name": "Fish - Coral Grouper",
+                        "ref": "Fish/Coral Grouper/"
+                    },
+                    {
+                        "name": "Fish - Craterous Seer",
+                        "ref": "Fish/Craterous Seer/"
+                    },
+                    {
+                        "name": "Fish - Crawling Instar",
+                        "ref": "Fish/Crawling Instar/"
+                    },
+                    {
+                        "name": "Fish - Cursed Fangtooth",
+                        "ref": "Fish/Cursed Fangtooth/"
+                    },
+                    {
+                        "name": "Fish - Cusk Eel",
+                        "ref": "Fish/Cusk Eel/"
+                    },
+                    {
+                        "name": "Fish - Cyclopean Flounder",
+                        "ref": "Fish/Cyclopean Flounder/"
+                    },
+                    {
+                        "name": "Fish - Decaying Blackmouth",
+                        "ref": "Fish/Decaying Blackmouth/"
+                    },
+                    {
+                        "name": "Fish - Decrepit Viperfish",
+                        "ref": "Fish/Decrepit Viperfish/"
+                    },
+                    {
+                        "name": "Fish - Defaced Skate",
+                        "ref": "Fish/Defaced Skate/"
+                    },
+                    {
+                        "name": "Fish - Devil Ray",
+                        "ref": "Fish/Devil Ray/"
+                    },
+                    {
+                        "name": "Fish - Drifting Chrysalis",
+                        "ref": "Fish/Drifting Chrysalis/"
+                    },
+                    {
+                        "name": "Fish - Dunkleosteus",
+                        "ref": "Fish/Dunkleosteus/"
+                    },
+                    {
+                        "name": "Fish - Eagle Shark",
+                        "ref": "Fish/Eagle Shark/"
+                    },
+                    {
+                        "name": "Fish - Enthralled Stonefish",
+                        "ref": "Fish/Enthralled Stonefish/"
+                    },
+                    {
+                        "name": "Fish - Entwined Mullet",
+                        "ref": "Fish/Entwined Mullet/"
+                    },
+                    {
+                        "name": "Fish - Excoriated Fiend",
+                        "ref": "Fish/Excoriated Fiend/"
+                    },
+                    {
+                        "name": "Fish - Famines End",
+                        "ref": "Fish/Famines End/"
+                    },
+                    {
+                        "name": "Fish - Fanged Cod",
+                        "ref": "Fish/Fanged Cod/"
+                    },
+                    {
+                        "name": "Fish - Fangtooth",
+                        "ref": "Fish/Fangtooth/"
+                    },
+                    {
+                        "name": "Fish - Feral Lizardfish",
+                        "ref": "Fish/Feral Lizardfish/"
+                    },
+                    {
+                        "name": "Fish - Firefly Squid",
+                        "ref": "Fish/Firefly Squid/"
+                    },
+                    {
+                        "name": "Fish - Flayed Mackerel",
+                        "ref": "Fish/Flayed Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Fractalline Icefish",
+                        "ref": "Fish/Fractalline Icefish/"
+                    },
+                    {
+                        "name": "Fish - Frilled Shark",
+                        "ref": "Fish/Frilled Shark/"
+                    },
+                    {
+                        "name": "Fish - Gar",
+                        "ref": "Fish/Gar/"
+                    },
+                    {
+                        "name": "Fish - Gazing Shark",
+                        "ref": "Fish/Gazing Shark/"
+                    },
+                    {
+                        "name": "Fish - Gelatinous Stonefish",
+                        "ref": "Fish/Gelatinous Stonefish/"
+                    },
+                    {
+                        "name": "Fish - Ghost Shark",
+                        "ref": "Fish/Ghost Shark/"
+                    },
+                    {
+                        "name": "Fish - Giant Amphipod",
+                        "ref": "Fish/Giant Amphipod/"
+                    },
+                    {
+                        "name": "Fish - Giant Dragonfish",
+                        "ref": "Fish/Giant Dragonfish/"
+                    },
+                    {
+                        "name": "Fish - Glaring Sunfish",
+                        "ref": "Fish/Glaring Sunfish/"
+                    },
+                    {
+                        "name": "Fish - Gleaming Mullet",
+                        "ref": "Fish/Gleaming Mullet/"
+                    },
+                    {
+                        "name": "Fish - Glowing Octopus",
+                        "ref": "Fish/Glowing Octopus/"
+                    },
+                    {
+                        "name": "Fish - Gnashing Perch",
+                        "ref": "Fish/Gnashing Perch/"
+                    },
+                    {
+                        "name": "Fish - Goblin Shark",
+                        "ref": "Fish/Goblin Shark/"
+                    },
+                    {
+                        "name": "Fish - Goliath Tigerfish",
+                        "ref": "Fish/Goliath Tigerfish/"
+                    },
+                    {
+                        "name": "Fish - Grey Eel",
+                        "ref": "Fish/Grey Eel/"
+                    },
+                    {
+                        "name": "Fish - Grey Mullet",
+                        "ref": "Fish/Grey Mullet/"
+                    },
+                    {
+                        "name": "Fish - Grinning Gar",
+                        "ref": "Fish/Grinning Gar/"
+                    },
+                    {
+                        "name": "Fish - Grisly Shark",
+                        "ref": "Fish/Grisly Shark/"
+                    },
+                    {
+                        "name": "Fish - Grotesque Mackerel",
+                        "ref": "Fish/Grotesque Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Gulf Flounder",
+                        "ref": "Fish/Gulf Flounder/"
+                    },
+                    {
+                        "name": "Fish - Gulper Eel",
+                        "ref": "Fish/Gulper Eel/"
+                    },
+                    {
+                        "name": "Fish - Hammerhead Shark",
+                        "ref": "Fish/Hammerhead Shark/"
+                    },
+                    {
+                        "name": "Fish - Hinged Wolffish",
+                        "ref": "Fish/Hinged Wolffish/"
+                    },
+                    {
+                        "name": "Fish - Hooked Sailfish",
+                        "ref": "Fish/Hooked Sailfish/"
+                    },
+                    {
+                        "name": "Fish - Host Eel",
+                        "ref": "Fish/Host Eel/"
+                    },
+                    {
+                        "name": "Fish - Icefish",
+                        "ref": "Fish/Icefish/"
+                    },
+                    {
+                        "name": "Fish - Infernal Eel",
+                        "ref": "Fish/Infernal Eel/"
+                    },
+                    {
+                        "name": "Fish - Ivory Impaler",
+                        "ref": "Fish/Ivory Impaler/"
+                    },
+                    {
+                        "name": "Fish - Kerygmachela",
+                        "ref": "Fish/Kerygmachela/"
+                    },
+                    {
+                        "name": "Fish - Lancetfish",
+                        "ref": "Fish/Lancetfish/"
+                    },
+                    {
+                        "name": "Fish - Latching Snapper",
+                        "ref": "Fish/Latching Snapper/"
+                    },
+                    {
+                        "name": "Fish - Leeching Prawn",
+                        "ref": "Fish/Leeching Prawn/"
+                    },
+                    {
+                        "name": "Fish - Lizardfish",
+                        "ref": "Fish/Lizardfish/"
+                    },
+                    {
+                        "name": "Fish - Longfin Eel",
+                        "ref": "Fish/Longfin Eel/"
+                    },
+                    {
+                        "name": "Fish - Loosejaw",
+                        "ref": "Fish/Loosejaw/"
+                    },
+                    {
+                        "name": "Fish - Lumpy Mackerel",
+                        "ref": "Fish/Lumpy Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Mahi Mahi",
+                        "ref": "Fish/Mahi Mahi/"
+                    },
+                    {
+                        "name": "Fish - Many-Eyed Mackerel",
+                        "ref": "Fish/Many-Eyed Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Medusa Octopus",
+                        "ref": "Fish/Medusa Octopus/"
+                    },
+                    {
+                        "name": "Fish - Moonfish",
+                        "ref": "Fish/Moonfish/"
+                    },
+                    {
+                        "name": "Fish - Nautilus",
+                        "ref": "Fish/Nautilus/"
+                    },
+                    {
+                        "name": "Fish - Nightwing Catfish",
+                        "ref": "Fish/Nightwing Catfish/"
+                    },
+                    {
+                        "name": "Fish - Oarfish",
+                        "ref": "Fish/Oarfish/"
+                    },
+                    {
+                        "name": "Fish - Ocean Sunfish",
+                        "ref": "Fish/Ocean Sunfish/"
+                    },
+                    {
+                        "name": "Fish - Oceanic Perch",
+                        "ref": "Fish/Oceanic Perch/"
+                    },
+                    {
+                        "name": "Fish - Opabinia",
+                        "ref": "Fish/Opabinia/"
+                    },
+                    {
+                        "name": "Fish - Ossified Searobin",
+                        "ref": "Fish/Ossified Searobin/"
+                    },
+                    {
+                        "name": "Fish - Osteostracan",
+                        "ref": "Fish/Osteostracan/"
+                    },
+                    {
+                        "name": "Fish - Paddlefish",
+                        "ref": "Fish/Paddlefish/"
+                    },
+                    {
+                        "name": "Fish - Pale Grasper",
+                        "ref": "Fish/Pale Grasper/"
+                    },
+                    {
+                        "name": "Fish - Pale Skate",
+                        "ref": "Fish/Pale Skate/"
+                    },
+                    {
+                        "name": "Fish - Parhelion Jellyfish",
+                        "ref": "Fish/Parhelion Jellyfish/"
+                    },
+                    {
+                        "name": "Fish - Perished Loosejaw",
+                        "ref": "Fish/Perished Loosejaw/"
+                    },
+                    {
+                        "name": "Fish - Plated Barbjaw",
+                        "ref": "Fish/Plated Barbjaw/"
+                    },
+                    {
+                        "name": "Fish - Plated Osteostracan",
+                        "ref": "Fish/Plated Osteostracan/"
+                    },
+                    {
+                        "name": "Fish - Primordial Shadow",
+                        "ref": "Fish/Primordial Shadow/"
+                    },
+                    {
+                        "name": "Fish - Radiant Squid",
+                        "ref": "Fish/Radiant Squid/"
+                    },
+                    {
+                        "name": "Fish - Rapt Shark",
+                        "ref": "Fish/Rapt Shark/"
+                    },
+                    {
+                        "name": "Fish - Rattail",
+                        "ref": "Fish/Rattail/"
+                    },
+                    {
+                        "name": "Fish - Razormouth Tuna",
+                        "ref": "Fish/Razormouth Tuna/"
+                    },
+                    {
+                        "name": "Fish - Red Snapper",
+                        "ref": "Fish/Red Snapper/"
+                    },
+                    {
+                        "name": "Fish - Riddled Flounder",
+                        "ref": "Fish/Riddled Flounder/"
+                    },
+                    {
+                        "name": "Fish - Ruptured Vessel",
+                        "ref": "Fish/Ruptured Vessel/"
+                    },
+                    {
+                        "name": "Fish - Sailfish",
+                        "ref": "Fish/Sailfish/"
+                    },
+                    {
+                        "name": "Fish - Sallow Sailfish",
+                        "ref": "Fish/Sallow Sailfish/"
+                    },
+                    {
+                        "name": "Fish - Sanguine Shark",
+                        "ref": "Fish/Sanguine Shark/"
+                    },
+                    {
+                        "name": "Fish - Savage Barracuda",
+                        "ref": "Fish/Savage Barracuda/"
+                    },
+                    {
+                        "name": "Fish - Sawfish",
+                        "ref": "Fish/Sawfish/"
+                    },
+                    {
+                        "name": "Fish - Scarlet Prawn",
+                        "ref": "Fish/Scarlet Prawn/"
+                    },
+                    {
+                        "name": "Fish - Scouring Bass",
+                        "ref": "Fish/Scouring Bass/"
+                    },
+                    {
+                        "name": "Fish - Seizing Snailfish",
+                        "ref": "Fish/Seizing Snailfish/"
+                    },
+                    {
+                        "name": "Fish - Sergeant Fish",
+                        "ref": "Fish/Sergeant Fish/"
+                    },
+                    {
+                        "name": "Fish - Serpentine Mackerel",
+                        "ref": "Fish/Serpentine Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Shapers Prime",
+                        "ref": "Fish/Shapers Prime/"
+                    },
+                    {
+                        "name": "Fish - Shard Ray",
+                        "ref": "Fish/Shard Ray/"
+                    },
+                    {
+                        "name": "Fish - Shattered Wreckfish",
+                        "ref": "Fish/Shattered Wreckfish/"
+                    },
+                    {
+                        "name": "Fish - Silvering Lancetfish",
+                        "ref": "Fish/Silvering Lancetfish/"
+                    },
+                    {
+                        "name": "Fish - Skeletal Moonfish",
+                        "ref": "Fish/Skeletal Moonfish/"
+                    },
+                    {
+                        "name": "Fish - Sleeper Shark",
+                        "ref": "Fish/Sleeper Shark/"
+                    },
+                    {
+                        "name": "Fish - Sleepers Torment",
+                        "ref": "Fish/Sleepers Torment/"
+                    },
+                    {
+                        "name": "Fish - Snag Squid",
+                        "ref": "Fish/Snag Squid/"
+                    },
+                    {
+                        "name": "Fish - Snailfish",
+                        "ref": "Fish/Snailfish/"
+                    },
+                    {
+                        "name": "Fish - Snake Mackerel",
+                        "ref": "Fish/Snake Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Sollasina",
+                        "ref": "Fish/Sollasina/"
+                    },
+                    {
+                        "name": "Fish - Sprouting Eel",
+                        "ref": "Fish/Sprouting Eel/"
+                    },
+                    {
+                        "name": "Fish - Stalking Spiderfish",
+                        "ref": "Fish/Stalking Spiderfish/"
+                    },
+                    {
+                        "name": "Fish - Stargazer",
+                        "ref": "Fish/Stargazer/"
+                    },
+                    {
+                        "name": "Fish - Stingray",
+                        "ref": "Fish/Stingray/"
+                    },
+                    {
+                        "name": "Fish - Stonefish",
+                        "ref": "Fish/Stonefish/"
+                    },
+                    {
+                        "name": "Fish - Sturgeon",
+                        "ref": "Fish/Sturgeon/"
+                    },
+                    {
+                        "name": "Fish - Swordfish",
+                        "ref": "Fish/Swordfish/"
+                    },
+                    {
+                        "name": "Fish - Tarpon",
+                        "ref": "Fish/Tarpon/"
+                    },
+                    {
+                        "name": "Fish - Tattered Mackerel",
+                        "ref": "Fish/Tattered Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Thawed Icefish",
+                        "ref": "Fish/Thawed Icefish/"
+                    },
+                    {
+                        "name": "Fish - Three-Headed Cod",
+                        "ref": "Fish/Three-Headed Cod/"
+                    },
+                    {
+                        "name": "Fish - Tiger Mackerel",
+                        "ref": "Fish/Tiger Mackerel/"
+                    },
+                    {
+                        "name": "Fish - Toothfish",
+                        "ref": "Fish/Toothfish/"
+                    },
+                    {
+                        "name": "Fish - Translucent Sturgeon",
+                        "ref": "Fish/Translucent Sturgeon/"
+                    },
+                    {
+                        "name": "Fish - Tripod Spiderfish",
+                        "ref": "Fish/Tripod Spiderfish/"
+                    },
+                    {
+                        "name": "Fish - Tullimonstrum",
+                        "ref": "Fish/Tullimonstrum/"
+                    },
+                    {
+                        "name": "Fish - Tusked Grouper",
+                        "ref": "Fish/Tusked Grouper/"
+                    },
+                    {
+                        "name": "Fish - Twinned Eels",
+                        "ref": "Fish/Twinned Eels/"
+                    },
+                    {
+                        "name": "Fish - Twisted Shark",
+                        "ref": "Fish/Twisted Shark/"
+                    },
+                    {
+                        "name": "Fish - Untouchable Wyrmfish",
+                        "ref": "Fish/Untouchable Wyrmfish/"
+                    },
+                    {
+                        "name": "Fish - Unveiled Vetulicolia",
+                        "ref": "Fish/Unveiled Vetulicolia/"
+                    },
+                    {
+                        "name": "Fish - Vagrant Sollasina",
+                        "ref": "Fish/Vagrant Sollasina/"
+                    },
+                    {
+                        "name": "Fish - Vetulicolia",
+                        "ref": "Fish/Vetulicolia/"
+                    },
+                    {
+                        "name": "Fish - Viperfish",
+                        "ref": "Fish/Viperfish/"
+                    },
+                    {
+                        "name": "Fish - Voideye",
+                        "ref": "Fish/Voideye/"
+                    },
+                    {
+                        "name": "Fish - Voltaic Grouper",
+                        "ref": "Fish/Voltaic Grouper/"
+                    },
+                    {
+                        "name": "Fish - Vortex Interloper",
+                        "ref": "Fish/Vortex Interloper/"
+                    },
+                    {
+                        "name": "Fish - Withered Ray",
+                        "ref": "Fish/Withered Ray/"
+                    },
+                    {
+                        "name": "Fish - Wolffish",
+                        "ref": "Fish/Wolffish/"
+                    },
+                    {
+                        "name": "Fish - Wreckfish",
+                        "ref": "Fish/Wreckfish/"
+                    },
+                    {
+                        "name": "Fish - Xeno Xeno",
+                        "ref": "Fish/Xeno Xeno/"
+                    },
+                    {
+                        "name": "Fish - Xiphactinus",
+                        "ref": "Fish/Xiphactinus/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NONE",
+                        "x": 30,
+                        "y": 30,
+                        "size": 50,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Crab",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Crab - Common Crab",
+                        "ref": "Fish/Common Crab/"
+                    },
+                    {
+                        "name": "Crab - Cerebral Crab",
+                        "ref": "Fish/Cerebral Crab/"
+                    },
+                    {
+                        "name": "Crab - Fiddler Crab",
+                        "ref": "Fish/Fiddler Crab/"
+                    },
+                    {
+                        "name": "Crab - Malignant Pincer",
+                        "ref": "Fish/Malignant Pincer/"
+                    },
+                    {
+                        "name": "Crab - Sea Cucumber",
+                        "ref": "Fish/Sea Cucumber/"
+                    },
+                    {
+                        "name": "Crab - Inverted Husk",
+                        "ref": "Fish/Inverted Husk/"
+                    },
+
+                    {
+                        "name": "Crab - Rock Crab",
+                        "ref": "Fish/Rock Crab/"
+                    },
+                    {
+                        "name": "Crab - Splintered Crab",
+                        "ref": "Fish/Splintered Crab/"
+                    },
+                    {
+                        "name": "Crab - Decorator Crab",
+                        "ref": "Fish/Decorator Crab/"
+                    },
+                    {
+                        "name": "Crab - Cortex Decorator",
+                        "ref": "Fish/Cortex Decorator/"
+                    },
+                    {
+                        "name": "Crab - Trilobite",
+                        "ref": "Fish/Trilobite/"
+                    },
+                    {
+                        "name": "Crab - Cystic Trilobite",
+                        "ref": "Fish/Cystic Trilobite/"
+                    },
+
+                    {
+                        "name": "Crab - Crown of Thorns",
+                        "ref": "Fish/Crown of Thorns/"
+                    },
+                    {
+                        "name": "Crab - Crown of Nadir",
+                        "ref": "Fish/Crown of Nadir/"
+                    },
+                    {
+                        "name": "Crab - Blue Crab",
+                        "ref": "Fish/Blue Crab/"
+                    },
+                    {
+                        "name": "Crab - Entangled Crab",
+                        "ref": "Fish/Entangled Crab/"
+                    },
+                    {
+                        "name": "Crab - Spiny Lobster",
+                        "ref": "Fish/Spiny Lobster/"
+                    },
+                    {
+                        "name": "Crab - Imperious Lobster",
+                        "ref": "Fish/Imperious Lobster/"
+                    },
+                    {
+                        "name": "Crab - Sea Slug",
+                        "ref": "Fish/Sea Slug/"
+                    },
+                    {
+                        "name": "Crab - Mimic Slug",
+                        "ref": "Fish/Mimic Slug/"
+                    },
+
+                    {
+                        "name": "Crab - Horseshoe Crab",
+                        "ref": "Fish/Horseshoe Crab/"
+                    },
+                    {
+                        "name": "Crab - Effigy Crab",
+                        "ref": "Fish/Effigy Crab/"
+                    },
+                    {
+                        "name": "Crab - Giant Mud Crab",
+                        "ref": "Fish/Giant Mud Crab/"
+                    },
+                    {
+                        "name": "Crab - Mire Screecher",
+                        "ref": "Fish/Mire Screecher/"
+                    },
+                    {
+                        "name": "Crab - Nipponites",
+                        "ref": "Fish/Nipponites/"
+                    },
+                    {
+                        "name": "Crab - Wretched Nipper",
+                        "ref": "Fish/Wretched Nipper/"
+                    },
+
+                    {
+                        "name": "Crab - Volcano Snail",
+                        "ref": "Fish/Volcano Snail/"
+                    },
+                    {
+                        "name": "Crab - Grasping Snail",
+                        "ref": "Fish/Grasping Snail/"
+                    },
+                    {
+                        "name": "Crab - Squat Lobster",
+                        "ref": "Fish/Squat Lobster/"
+                    },
+                    {
+                        "name": "Crab - Sable Reacher",
+                        "ref": "Fish/Sable Reacher/"
+                    },
+                    {
+                        "name": "Crab - Spider Crab",
+                        "ref": "Fish/Spider Crab/"
+                    },
+                    {
+                        "name": "Crab - Umbral Puppet",
+                        "ref": "Fish/Umbral Puppet/"
+                    },
+                    {
+                        "name": "Crab - Sea Scorpion",
+                        "ref": "Fish/Sea Scorpion/"
+                    },
+                    {
+                        "name": "Crab - Erupting Scorpion",
+                        "ref": "Fish/Erupting Scorpion/"
+                    },
+
+                    {
+                        "name": "Crab - Sea Stars",
+                        "ref": "Fish/Sea Stars/"
+                    },
+                    {
+                        "name": "Crab - Fallen Stars",
+                        "ref": "Fish/Fallen Stars/"
+                    },
+                    {
+                        "name": "Crab - King Crab",
+                        "ref": "Fish/King Crab/"
+                    },
+                    {
+                        "name": "Crab - Kings Wreath",
+                        "ref": "Fish/Kings Wreath/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NONE",
+                        "x": 30,
+                        "y": 30,
+                        "size": 50,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Research",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Flexible Fishing Pole Researched",
+                        "ref": "Research/Flexible Fishing Pole Researched/"
+                    },
+                    {
+                        "name": "Heat-Resistant Line Researched",
+                        "ref": "Research/Heat-Resistant Line Researched/"
+                    },
+                    {
+                        "name": "Anti-Tangle Line Researched",
+                        "ref": "Research/Anti-Tangle Line Researched/"
+                    },
+                    {
+                        "name": "Versatile Rod Researched",
+                        "ref": "Research/Versatile Rod Researched/"
+                    },
+                    {
+                        "name": "Hydraulic Rod Researched",
+                        "ref": "Research/Hydraulic Rod Researched/"
+                    },
+                    {
+                        "name": "Bottomless Lines Researched",
+                        "ref": "Research/Bottomless Lines Researched/"
+                    },
+                    {
+                        "name": "Improved Outboard Engine Researched",
+                        "ref": "Research/Improved Outboard Engine Researched/"
+                    },
+                    {
+                        "name": "Twin Prop Engine Researched",
+                        "ref": "Research/Twin Prop Engine Researched/"
+                    },
+                    {
+                        "name": "Refined Outboard Engine Researched",
+                        "ref": "Research/Refined Outboard Engine Researched/"
+                    },
+                    {
+                        "name": "Twin Jet Drive Engine Researched",
+                        "ref": "Research/Twin Jet Drive Engine Researched/"
+                    },
+                    {
+                        "name": "Efficient Crab Pot Researched",
+                        "ref": "Research/Efficient Crab Pot Researched/"
+                    },
+                    {
+                        "name": "Hardy Crab Pot Researched",
+                        "ref": "Research/Hardy Crab Pot Researched/"
+                    },
+                    {
+                        "name": "Large Crab Pot Researched",
+                        "ref": "Research/Large Crab Pot Researched/"
+                    },
+                    {
+                        "name": "Complex Crab Pot Researched",
+                        "ref": "Research/Complex Crab Pot Researched/"
+                    },
+                    {
+                        "name": "Massive Crab Pot Researched",
+                        "ref": "Research/Massive Crab Pot Researched/"
+                    },
+                    {
+                        "name": "Improved Trawl Net Researched",
+                        "ref": "Research/Improved Trawl Net Researched/"
+                    },
+                    {
+                        "name": "Large Trawl Net Researched",
+                        "ref": "Research/Large Trawl Net Researched/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NONE",
+                        "x": 10,
+                        "y": 10
+                    }
+                ]
+            },
+            {
+                "name": "Tool",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Hydraulic Rod",
+                        "ref": "Tool/Hydraulic Rod/"
+                    },
+                    {
+                        "name": "Flexible Fishing Pole",
+                        "ref": "Tool/Flexible Fishing Pole/"
+                    },
+                    {
+                        "name": "Heat-Resistant Line",
+                        "ref": "Tool/Heat-Resistant Line/"
+                    },
+                    {
+                        "name": "Anti-Tangle Line",
+                        "ref": "Tool/Anti-Tangle Line/"
+                    },
+                    {
+                        "name": "Versatile Rod",
+                        "ref": "Tool/Versatile Rod/"
+                    },
+                    {
+                        "name": "Harvesting Platform",
+                        "ref": "Tool/Harvesting Platform/"
+                    },
+                    {
+                        "name": "Bottomless Lines",
+                        "ref": "Tool/Bottomless Lines/"
+                    },
+                    {
+                        "name": "Fathomless Winch",
+                        "ref": "Tool/Fathomless Winch/"
+                    },
+                    {
+                        "name": "Improved Outboard Engine",
+                        "ref": "Tool/Improved Outboard Engine/"
+                    },
+                    {
+                        "name": "Jet Drive Engine",
+                        "ref": "Tool/Jet Drive Engine/"
+                    },
+                    {
+                        "name": "Refined Outboard Engine",
+                        "ref": "Tool/Refined Outboard Engine/"
+                    },
+                    {
+                        "name": "Twin Prop Engine",
+                        "ref": "Tool/Twin Prop Engine/"
+                    },
+                    {
+                        "name": "Twin Jet Drive Engine",
+                        "ref": "Tool/Twin Jet Drive Engine/"
+                    },
+                    {
+                        "name": "Engine Stack",
+                        "ref": "Tool/Engine Stack/"
+                    },
+                    {
+                        "name": "Efficient Crab Pot",
+                        "ref": "Tool/Efficient Crab Pot/"
+                    },
+                    {
+                        "name": "Hardy Crab Pot",
+                        "ref": "Tool/Hardy Crab Pot/"
+                    },
+                    {
+                        "name": "Large Crab Pot",
+                        "ref": "Tool/Large Crab Pot/"
+                    },
+                    {
+                        "name": "Complex Crab Pot",
+                        "ref": "Tool/Complex Crab Pot/"
+                    },
+                    {
+                        "name": "Massive Crab Pot",
+                        "ref": "Tool/Massive Crab Pot/"
+                    },
+                    {
+                        "name": "Reinforced Crab Pot",
+                        "ref": "Tool/Reinforced Crab Pot/"
+                    },
+                    {
+                        "name": "Improved Trawl Net",
+                        "ref": "Tool/Improved Trawl Net/"
+                    },
+                    {
+                        "name": "Silt Filtering Trawl Net",
+                        "ref": "Tool/Silt Filtering Trawl Net/"
+                    },
+                    {
+                        "name": "Large Trawl Net",
+                        "ref": "Tool/Large Trawl Net/"
+                    },
+                    {
+                        "name": "Tempered Mesh Net",
+                        "ref": "Tool/Tempered Mesh Net/"
+                    },
+                    {
+                        "name": "Heavy-Duty Trawl Net",
+                        "ref": "Tool/Heavy-Duty Trawl Net/"
+                    },
+                    {
+                        "name": "Sampling Device",
+                        "ref": "Tool/Sampling Device/"
+                    },
+                    {
+                        "name": "Simple Skimmer",
+                        "ref": "Tool/Simple Skimmer/"
+                    },
+                    {
+                        "name": "Weighted Line",
+                        "ref": "Tool/Weighted Line/"
+                    },
+                    {
+                        "name": "Barbed Ice Rod",
+                        "ref": "Tool/Barbed Ice Rod/"
+                    },
+                    {
+                        "name": "Glacial Lance",
+                        "ref": "Tool/Glacial Lance/"
+                    },
+                    {
+                        "name": "Infused Rod",
+                        "ref": "Tool/Infused Rod/"
+                    },
+                    {
+                        "name": "Infused Winch",
+                        "ref": "Tool/Infused Winch/"
+                    },
+                    {
+                        "name": "Infused Hoist",
+                        "ref": "Tool/Infused Hoist/"
+                    },
+                    {
+                        "name": "Infused Coiling Rod",
+                        "ref": "Tool/Infused Coiling Rod/"
+                    },
+                    {
+                        "name": "Infused Fireproof Rod",
+                        "ref": "Tool/Infused Fireproof Rod/"
+                    },
+                    {
+                        "name": "Sinew Spindle",
+                        "ref": "Tool/Sinew Spindle/"
+                    },
+                    {
+                        "name": "Viscera Crane",
+                        "ref": "Tool/Viscera Crane/"
+                    },
+                    {
+                        "name": "Tendon Rod",
+                        "ref": "Tool/Tendon Rod/"
+                    },
+                    {
+                        "name": "Encrusted Talisman",
+                        "ref": "Tool/Encrusted Talisman/"
+                    },
+                    {
+                        "name": "Basic Fishing Pole",
+                        "ref": "Tool/Basic Fishing Pole/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "NONE",
+                        "x": 10,
+                        "y": 10
+                    }
+                ]
+            }
+        ]
+    }
+]

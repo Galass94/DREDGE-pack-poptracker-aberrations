@@ -1,0 +1,72 @@
+[
+    {
+        "name": "palereachDLC",
+        "type": "toggle",
+        "img": "images/settings/palereachDLC.jpg",
+        "initial_active_state": true,
+        "codes": "palereachDLC"
+    },
+    {
+        "name": "ironrigDLC",
+        "type": "toggle",
+        "img": "images/settings/ironrigDLC.jpg",
+        "initial_active_state": true,
+        "codes": "ironrigDLC"
+    },
+    {
+        "name": "ironrigDLCprogression",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/ironrig_phase_0.jpg",
+                "codes": "ironrigDLCprogression",
+                "inherit_codes": false,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Phase 0 (no contamination)"
+            },
+            {
+                "img": "images/settings/ironrig_phase_1.jpg",
+                "codes": "ironrigDLCphase1",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Phase 1 (The Marrows)"
+            },
+            {
+                "img": "images/settings/ironrig_phase_2.jpg",
+                "codes": "ironrigDLCphase2",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Phase 2 (Gale Cliffs)"
+            },
+            {
+                "img": "images/settings/ironrig_phase_3.jpg",
+                "codes": "ironrigDLCphase3",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Phase 3 (Stellar Basin)"
+            },
+            {
+                "img": "images/settings/ironrig_phase_4.jpg",
+                "codes": "ironrigDLCphase4",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Phase 4 (Twisted Strand)"
+            },
+            {
+                "img": "images/settings/ironrig_phase_5.jpg",
+                "codes": "ironrigDLCphase5",
+                "inherit_codes": true,
+                "img_mods": "...",
+                "disabled_img_mods": "@disabled",
+                "name": "Phase 5 (Devils Spine)"
+            }
+        ]
+    }
+]

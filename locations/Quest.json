@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Quest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Ornate Key",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Quest",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Rusted Music Box",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Quest",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jewel Encrusted Band",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Quest",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shimmering Necklace",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Quest",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Antique Pocket Watch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Quest",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

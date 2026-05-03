@@ -1,0 +1,138 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overworld",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+            {
+                "title": "The Marrows",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Marrows"
+                    ]
+                }
+            },
+            {
+                "title": "Gale Cliffs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gale Cliffs"
+                    ]
+                }
+            },
+            {
+                "title": "Stellar Basin",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Stellar Basin"
+                    ]
+                }
+            },
+            {
+                "title": "Twisted Strand",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Twisted Strand"
+                    ]
+                }
+            },
+            {
+                "title": "Devils Spine",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Devils Spine"
+                    ]
+                }
+            },
+            {
+                "title": "Pale Reach",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pale Reach"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overworld",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+            {
+                "title": "The Marrows",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Marrows"
+                    ]
+                }
+            },
+            {
+                "title": "Gale Cliffs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Gale Cliffs"
+                    ]
+                }
+            },
+            {
+                "title": "Stellar Basin",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Stellar Basin"
+                    ]
+                }
+            },
+            {
+                "title": "Twisted Strand",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Twisted Strand"
+                    ]
+                }
+            },
+            {
+                "title": "Devils Spine",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Devils Spine"
+                    ]
+                }
+            },
+            {
+                "title": "Pale Reach",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Pale Reach"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,939 @@
+[
+    {
+        "name": "Tool",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Hydraulic Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Flexible Fishing Pole",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Heat-Resistant Line",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Anti-Tangle Line",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Versatile Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Harvesting Platform",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bottomless Lines",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fathomless Winch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Improved Outboard Engine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Jet Drive Engine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Refined Outboard Engine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Twin Prop Engine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Twin Jet Drive Engine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Engine Stack",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Efficient Crab Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hardy Crab Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Large Crab Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Complex Crab Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Massive Crab Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Reinforced Crab Pot",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Improved Trawl Net",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Silt Filtering Trawl Net",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Large Trawl Net",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tempered Mesh Net",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Heavy-Duty Trawl Net",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sampling Device",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Simple Skimmer",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Weighted Line",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Barbed Ice Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "visibility_rules":[
+                    "$PaleReachDLC"
+                ],
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Glacial Lance",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "visibility_rules":[
+                    "$PaleReachDLC"
+                ],
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infused Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infused Winch",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infused Hoist",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infused Coiling Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Infused Fireproof Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sinew Spindle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Viscera Crane",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Tendon Rod",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Encrusted Talisman",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Basic Fishing Pole",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Tool",
+                        "x": 691,
+                        "y": 377,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

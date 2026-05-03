@@ -1,0 +1,469 @@
+[
+    {
+        "name": "Gale Cliffs",
+        "chest_unopened_img": "/images/utils/flaque-C.png",
+        "chest_opened_img": "/images/utils/flaque-O.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Silver Trinket(O-5)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 496,
+                        "y": 102
+                    }
+                ]
+            },
+            {
+                "name": "Lumber 1(M-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 226,
+                        "y": 184
+                    }
+                ]
+            },
+            {
+                "name": "Lumber 2(O-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 492,
+                        "y": 119
+                    }
+                ]
+            },
+            {
+                "name": "Lumber 3(N-3)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 317,
+                        "y": 253
+                    }
+                ]
+            },
+            {
+                "name": "Doubloon(O-3)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 457,
+                        "y": 256
+                    }
+                ]
+            },
+            {
+                "name": "Lumber 4(O-2)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 412,
+                        "y": 375
+                    }
+                ]
+            },
+            {
+                "name": "Scrap 1(O-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 504,
+                        "y": 131
+                    }
+                ]
+            },
+            {
+                "name": "Scrap 2(N-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 306,
+                        "y": 227
+                    }
+                ]
+            },
+            {
+                "name": "Scrap 3(N-3)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 345,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Scrap 4(O-2)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 498,
+                        "y": 364
+                    }
+                ]
+            },
+            {
+                "name": "Scrap 5(O-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 506,
+                        "y": 215
+                    }
+                ]
+            },
+            {
+                "name": "Cloth 1(P-5)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 522,
+                        "y": 100
+                    }
+                ]
+            },
+            {
+                "name": "Cloth 2(O-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 450,
+                        "y": 193
+                    }
+                ]
+            },
+            {
+                "name": "Ring 1(O-2)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 451,
+                        "y": 378
+                    }
+                ]
+            },
+            {
+                "name": "Cloth 3(O-2)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 475,
+                        "y": 358
+                    }
+                ]
+            },
+            {
+                "name": "Metal 1(O-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "^$HasPackedExplosives"
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 403,
+                        "y": 202
+                    }
+                ]
+            },
+            {
+                "name": "Musicbox(N-3)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "^$HasPackedExplosives"
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 357,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Earring(N-3)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "^$HasPackedExplosives"
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 344,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Family Crest(O-3)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 504,
+                        "y": 277
+                    }
+                ]
+            },
+            {
+                "name": "Research Part 1(N-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 366,
+                        "y": 162
+                    }
+                ]
+            },
+            {
+                "name": "Bag of Doubloons(N-3)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 393,
+                        "y": 265
+                    }
+                ]
+            },
+            {
+                "name": "Ring 2(P-4)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 570,
+                        "y": 201
+                    }
+                ]
+            },
+            {
+                "name": "Research Part 2(P-2)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 558,
+                        "y": 361
+                    }
+                ]
+            },
+            {
+                "name": "Flag 1(N-2)",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "access_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Gale Cliffs",
+                        "x": 360,
+                        "y": 372
+                    }
+                ]
+            }
+        ]
+    }
+]

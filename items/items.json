@@ -1,0 +1,2850 @@
+[
+    {
+        "name": "tullimonstrum",
+        "type": "toggle",
+        "img": "images/items/tullimonstrum.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tullimonstrum"
+    },
+    {
+        "name": "loosejaw",
+        "type": "toggle",
+        "img": "images/items/loosejaw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "loosejaw"
+    },
+    {
+        "name": "shardray",
+        "type": "toggle",
+        "img": "images/items/shardray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shardray"
+    },
+    {
+        "name": "hagglingandbartering:aguide",
+        "type": "toggle",
+        "img": "images/items/hagglingandbartering:aguide.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hagglingandbartering:aguide"
+    },
+    {
+        "name": "hammerheadshark",
+        "type": "toggle",
+        "img": "images/items/hammerheadshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hammerheadshark"
+    },
+    {
+        "name": "cerebralcrab",
+        "type": "toggle",
+        "img": "images/items/cerebralcrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cerebralcrab"
+    },
+    {
+        "name": "craterousseer",
+        "type": "toggle",
+        "img": "images/items/craterousseer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "craterousseer"
+    },
+    {
+        "name": "char",
+        "type": "toggle",
+        "img": "images/items/char.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "char"
+    },
+    {
+        "name": "refinedoutboardengine",
+        "type": "toggle",
+        "img": "images/items/refinedoutboardengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "refinedoutboardengine"
+    },
+    {
+        "name": "fangtooth",
+        "type": "toggle",
+        "img": "images/items/fangtooth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fangtooth"
+    },
+    {
+        "name": "ferallizardfish",
+        "type": "toggle",
+        "img": "images/items/ferallizardfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ferallizardfish"
+    },
+    {
+        "name": "emeraldearrings",
+        "type": "toggle",
+        "img": "images/items/emeraldearrings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "emeraldearrings"
+    },
+    {
+        "name": "complexcrabpotresearched",
+        "type": "toggle",
+        "img": "images/items/complexcrabpotresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "complexcrabpotresearched"
+    },
+    {
+        "name": "flexiblefishingpole",
+        "type": "toggle",
+        "img": "images/items/flexiblefishingpole.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flexiblefishingpole"
+    },
+    {
+        "name": "armoredsearobin",
+        "type": "toggle",
+        "img": "images/items/armoredsearobin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "armoredsearobin"
+    },
+    {
+        "name": "startinggear-basicfishingpole",
+        "type": "toggle",
+        "img": "images/items/startinggear-basicfishingpole.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "startinggear-basicfishingpole"
+    },
+    {
+        "name": "paddlefish",
+        "type": "toggle",
+        "img": "images/items/paddlefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "paddlefish"
+    },
+    {
+        "name": "cystictrilobite",
+        "type": "toggle",
+        "img": "images/items/cystictrilobite.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cystictrilobite"
+    },
+    {
+        "name": "kingswreath",
+        "type": "toggle",
+        "img": "images/items/kingswreath.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kingswreath"
+    },
+    {
+        "name": "viperfish",
+        "type": "toggle",
+        "img": "images/items/viperfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "viperfish"
+    },
+    {
+        "name": "improvedoutboardengine",
+        "type": "toggle",
+        "img": "images/items/improvedoutboardengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "improvedoutboardengine"
+    },
+    {
+        "name": "parhelionjellyfish",
+        "type": "toggle",
+        "img": "images/items/parhelionjellyfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "parhelionjellyfish"
+    },
+    {
+        "name": "advancedfishing",
+        "type": "toggle",
+        "img": "images/items/advancedfishing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "advancedfishing"
+    },
+    {
+        "name": "eruptingscorpion",
+        "type": "toggle",
+        "img": "images/items/eruptingscorpion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eruptingscorpion"
+    },
+    {
+        "name": "hookedsailfish",
+        "type": "toggle",
+        "img": "images/items/hookedsailfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hookedsailfish"
+    },
+    {
+        "name": "nightwingcatfish",
+        "type": "toggle",
+        "img": "images/items/nightwingcatfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nightwingcatfish"
+    },
+    {
+        "name": "startinggear-peculiarengine",
+        "type": "toggle",
+        "img": "images/items/startinggear-peculiarengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "startinggear-peculiarengine"
+    },
+    {
+        "name": "shapersprime",
+        "type": "toggle",
+        "img": "images/items/shapersprime.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shapersprime"
+    },
+    {
+        "name": "signetring",
+        "type": "toggle",
+        "img": "images/items/signetring.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "signetring"
+    },
+    {
+        "name": "gulpereel",
+        "type": "toggle",
+        "img": "images/items/gulpereel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gulpereel"
+    },
+    {
+        "name": "rattail",
+        "type": "toggle",
+        "img": "images/items/rattail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rattail"
+    },
+    {
+        "name": "commoncrab",
+        "type": "toggle",
+        "img": "images/items/commoncrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "commoncrab"
+    },
+    {
+        "name": "opalring",
+        "type": "toggle",
+        "img": "images/items/opalring.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opalring"
+    },
+    {
+        "name": "brokenarapaima",
+        "type": "toggle",
+        "img": "images/items/brokenarapaima.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenarapaima"
+    },
+    {
+        "name": "grotesquemackerel",
+        "type": "toggle",
+        "img": "images/items/grotesquemackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grotesquemackerel"
+    },
+    {
+        "name": "tuskedgrouper",
+        "type": "toggle",
+        "img": "images/items/tuskedgrouper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tuskedgrouper"
+    },
+    {
+        "name": "wreckfish",
+        "type": "toggle",
+        "img": "images/items/wreckfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wreckfish"
+    },
+    {
+        "name": "blackseabass",
+        "type": "toggle",
+        "img": "images/items/blackseabass.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackseabass"
+    },
+    {
+        "name": "barbedeel",
+        "type": "toggle",
+        "img": "images/items/barbedeel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barbedeel"
+    },
+    {
+        "name": "sturgeon",
+        "type": "toggle",
+        "img": "images/items/sturgeon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sturgeon"
+    },
+    {
+        "name": "hydraulicrodresearched",
+        "type": "toggle",
+        "img": "images/items/hydraulicrodresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hydraulicrodresearched"
+    },
+    {
+        "name": "correctengineoperation",
+        "type": "toggle",
+        "img": "images/items/correctengineoperation.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "correctengineoperation"
+    },
+    {
+        "name": "axialmatron",
+        "type": "toggle",
+        "img": "images/items/axialmatron.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "axialmatron"
+    },
+    {
+        "name": "unveiledvetulicolia",
+        "type": "toggle",
+        "img": "images/items/unveiledvetulicolia.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "unveiledvetulicolia"
+    },
+    {
+        "name": "borealshell",
+        "type": "toggle",
+        "img": "images/items/borealshell.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "borealshell"
+    },
+    {
+        "name": "sleepershark",
+        "type": "toggle",
+        "img": "images/items/sleepershark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sleepershark"
+    },
+    {
+        "name": "rustedmusicbox",
+        "type": "toggle",
+        "img": "images/items/rustedmusicbox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rustedmusicbox"
+    },
+    {
+        "name": "glaciallance",
+        "type": "toggle",
+        "img": "images/items/glaciallance.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glaciallance"
+    },
+    {
+        "name": "glowingoctopus",
+        "type": "toggle",
+        "img": "images/items/glowingoctopus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glowingoctopus"
+    },
+    {
+        "name": "driftingchrysalis",
+        "type": "toggle",
+        "img": "images/items/driftingchrysalis.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "driftingchrysalis"
+    },
+    {
+        "name": "arapaima",
+        "type": "toggle",
+        "img": "images/items/arapaima.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arapaima"
+    },
+    {
+        "name": "progressivehull",
+        "type": "toggle",
+        "img": "images/items/progressivehull.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "progressivehull"
+    },
+    {
+        "name": "crawlinginstar",
+        "type": "toggle",
+        "img": "images/items/crawlinginstar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crawlinginstar"
+    },
+    {
+        "name": "mixedbait",
+        "type": "toggle",
+        "img": "images/items/mixedbait.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mixedbait"
+    },
+    {
+        "name": "hingedwolffish",
+        "type": "toggle",
+        "img": "images/items/hingedwolffish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hingedwolffish"
+    },
+    {
+        "name": "dunkleosteus",
+        "type": "toggle",
+        "img": "images/items/dunkleosteus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dunkleosteus"
+    },
+    {
+        "name": "mirescreecher",
+        "type": "toggle",
+        "img": "images/items/mirescreecher.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mirescreecher"
+    },
+    {
+        "name": "researchpart",
+        "type": "toggle",
+        "img": "images/items/researchpart.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "researchpart"
+    },
+    {
+        "name": "weakvalveengine",
+        "type": "toggle",
+        "img": "images/items/weakvalveengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weakvalveengine"
+    },
+    {
+        "name": "horseshoecrab",
+        "type": "toggle",
+        "img": "images/items/horseshoecrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "horseshoecrab"
+    },
+    {
+        "name": "greymullet",
+        "type": "toggle",
+        "img": "images/items/greymullet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greymullet"
+    },
+    {
+        "name": "citrinering",
+        "type": "toggle",
+        "img": "images/items/citrinering.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "citrinering"
+    },
+    {
+        "name": "icebreakerplowhalf2",
+        "type": "toggle",
+        "img": "images/items/icebreakerplowhalf2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icebreakerplowhalf2"
+    },
+    {
+        "name": "infusedfireproofrod",
+        "type": "toggle",
+        "img": "images/items/infusedfireproofrod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infusedfireproofrod"
+    },
+    {
+        "name": "siphontrawler",
+        "type": "toggle",
+        "img": "images/items/siphontrawler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "siphontrawler"
+    },
+    {
+        "name": "primordialshadow",
+        "type": "toggle",
+        "img": "images/items/primordialshadow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "primordialshadow"
+    },
+    {
+        "name": "charredsunfish",
+        "type": "toggle",
+        "img": "images/items/charredsunfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charredsunfish"
+    },
+    {
+        "name": "sextant",
+        "type": "toggle",
+        "img": "images/items/sextant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sextant"
+    },
+    {
+        "name": "broodsquid",
+        "type": "toggle",
+        "img": "images/items/broodsquid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "broodsquid"
+    },
+    {
+        "name": "graspingsnail",
+        "type": "toggle",
+        "img": "images/items/graspingsnail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "graspingsnail"
+    },
+    {
+        "name": "bookofastralsymbols",
+        "type": "toggle",
+        "img": "images/items/bookofastralsymbols.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bookofastralsymbols"
+    },
+    {
+        "name": "flexiblefishingpoleresearched",
+        "type": "toggle",
+        "img": "images/items/flexiblefishingpoleresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flexiblefishingpoleresearched"
+    },
+    {
+        "name": "bluemackerel",
+        "type": "toggle",
+        "img": "images/items/bluemackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bluemackerel"
+    },
+    {
+        "name": "jewelencrustedband",
+        "type": "toggle",
+        "img": "images/items/jewelencrustedband.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jewelencrustedband"
+    },
+    {
+        "name": "seascorpion",
+        "type": "toggle",
+        "img": "images/items/seascorpion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seascorpion"
+    },
+    {
+        "name": "beakedmoonfish",
+        "type": "toggle",
+        "img": "images/items/beakedmoonfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beakedmoonfish"
+    },
+    {
+        "name": "platedbarbjaw",
+        "type": "toggle",
+        "img": "images/items/platedbarbjaw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "platedbarbjaw"
+    },
+    {
+        "name": "shatteredwreckfish",
+        "type": "toggle",
+        "img": "images/items/shatteredwreckfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shatteredwreckfish"
+    },
+    {
+        "name": "sapphirering",
+        "type": "toggle",
+        "img": "images/items/sapphirering.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sapphirering"
+    },
+    {
+        "name": "brokenspectacles",
+        "type": "toggle",
+        "img": "images/items/brokenspectacles.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenspectacles"
+    },
+    {
+        "name": "aurorajellyfish",
+        "type": "toggle",
+        "img": "images/items/aurorajellyfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aurorajellyfish"
+    },
+    {
+        "name": "untouchablewyrmfish",
+        "type": "toggle",
+        "img": "images/items/untouchablewyrmfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "untouchablewyrmfish"
+    },
+    {
+        "name": "fangedcod",
+        "type": "toggle",
+        "img": "images/items/fangedcod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fangedcod"
+    },
+    {
+        "name": "vagrantsollasina",
+        "type": "toggle",
+        "img": "images/items/vagrantsollasina.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vagrantsollasina"
+    },
+    {
+        "name": "razormouthtuna",
+        "type": "toggle",
+        "img": "images/items/razormouthtuna.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "razormouthtuna"
+    },
+    {
+        "name": "aberratedbait",
+        "type": "toggle",
+        "img": "images/items/aberratedbait.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aberratedbait"
+    },
+    {
+        "name": "ornatekey",
+        "type": "toggle",
+        "img": "images/items/ornatekey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornatekey"
+    },
+    {
+        "name": "oarfish",
+        "type": "toggle",
+        "img": "images/items/oarfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oarfish"
+    },
+    {
+        "name": "fractallineicefish",
+        "type": "toggle",
+        "img": "images/items/fractallineicefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fractallineicefish"
+    },
+    {
+        "name": "radiantsquid",
+        "type": "toggle",
+        "img": "images/items/radiantsquid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "radiantsquid"
+    },
+    {
+        "name": "greyeel",
+        "type": "toggle",
+        "img": "images/items/greyeel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "greyeel"
+    },
+    {
+        "name": "gnashingperch",
+        "type": "toggle",
+        "img": "images/items/gnashingperch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gnashingperch"
+    },
+    {
+        "name": "three-headedcod",
+        "type": "toggle",
+        "img": "images/items/three-headedcod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "three-headedcod"
+    },
+    {
+        "name": "simpleskimmer",
+        "type": "toggle",
+        "img": "images/items/simpleskimmer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "simpleskimmer"
+    },
+    {
+        "name": "hydraulicrod",
+        "type": "toggle",
+        "img": "images/items/hydraulicrod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hydraulicrod"
+    },
+    {
+        "name": "aplanforthefuture",
+        "type": "toggle",
+        "img": "images/items/aplanforthefuture.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aplanforthefuture"
+    },
+    {
+        "name": "tigermackerel",
+        "type": "toggle",
+        "img": "images/items/tigermackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tigermackerel"
+    },
+    {
+        "name": "twinjetdriveengineresearched",
+        "type": "toggle",
+        "img": "images/items/twinjetdriveengineresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinjetdriveengineresearched"
+    },
+    {
+        "name": "faminesend",
+        "type": "toggle",
+        "img": "images/items/faminesend.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "faminesend"
+    },
+    {
+        "name": "ivoryimpaler",
+        "type": "toggle",
+        "img": "images/items/ivoryimpaler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ivoryimpaler"
+    },
+    {
+        "name": "icebreakerplowhalf1",
+        "type": "toggle",
+        "img": "images/items/icebreakerplowhalf1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icebreakerplowhalf1"
+    },
+    {
+        "name": "seacucumber",
+        "type": "toggle",
+        "img": "images/items/seacucumber.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seacucumber"
+    },
+    {
+        "name": "infernaleel",
+        "type": "toggle",
+        "img": "images/items/infernaleel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infernaleel"
+    },
+    {
+        "name": "scarletprawn",
+        "type": "toggle",
+        "img": "images/items/scarletprawn.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scarletprawn"
+    },
+    {
+        "name": "platedosteostracan",
+        "type": "toggle",
+        "img": "images/items/platedosteostracan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "platedosteostracan"
+    },
+    {
+        "name": "seaslug",
+        "type": "toggle",
+        "img": "images/items/seaslug.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seaslug"
+    },
+    {
+        "name": "xiphactinus",
+        "type": "toggle",
+        "img": "images/items/xiphactinus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "xiphactinus"
+    },
+    {
+        "name": "entangledcrab",
+        "type": "toggle",
+        "img": "images/items/entangledcrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "entangledcrab"
+    },
+    {
+        "name": "frilledshark",
+        "type": "toggle",
+        "img": "images/items/frilledshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frilledshark"
+    },
+    {
+        "name": "bulboustoothfish",
+        "type": "toggle",
+        "img": "images/items/bulboustoothfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bulboustoothfish"
+    },
+    {
+        "name": "theengineerscompanion",
+        "type": "toggle",
+        "img": "images/items/theengineerscompanion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "theengineerscompanion"
+    },
+    {
+        "name": "nautilus",
+        "type": "toggle",
+        "img": "images/items/nautilus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nautilus"
+    },
+    {
+        "name": "thawedicefish",
+        "type": "toggle",
+        "img": "images/items/thawedicefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thawedicefish"
+    },
+    {
+        "name": "dredgecrane",
+        "type": "toggle",
+        "img": "images/items/dredgecrane.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dredgecrane"
+    },
+    {
+        "name": "osteostracan",
+        "type": "toggle",
+        "img": "images/items/osteostracan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "osteostracan"
+    },
+    {
+        "name": "largetrawlnet",
+        "type": "toggle",
+        "img": "images/items/largetrawlnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "largetrawlnet"
+    },
+    {
+        "name": "samplingdevice",
+        "type": "toggle",
+        "img": "images/items/samplingdevice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "samplingdevice"
+    },
+    {
+        "name": "crownofnadir",
+        "type": "toggle",
+        "img": "images/items/crownofnadir.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crownofnadir"
+    },
+    {
+        "name": "leechingprawn",
+        "type": "toggle",
+        "img": "images/items/leechingprawn.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leechingprawn"
+    },
+    {
+        "name": "sallowsailfish",
+        "type": "toggle",
+        "img": "images/items/sallowsailfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sallowsailfish"
+    },
+    {
+        "name": "consumedgrouper",
+        "type": "toggle",
+        "img": "images/items/consumedgrouper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "consumedgrouper"
+    },
+    {
+        "name": "bigbagofdoubloons",
+        "type": "toggle",
+        "img": "images/items/bigbagofdoubloons.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bigbagofdoubloons"
+    },
+    {
+        "name": "blackgrouper",
+        "type": "toggle",
+        "img": "images/items/blackgrouper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackgrouper"
+    },
+    {
+        "name": "perishedloosejaw",
+        "type": "toggle",
+        "img": "images/items/perishedloosejaw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "perishedloosejaw"
+    },
+    {
+        "name": "hardycrabpotresearched",
+        "type": "toggle",
+        "img": "images/items/hardycrabpotresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hardycrabpotresearched"
+    },
+    {
+        "name": "artofthesilvertongue",
+        "type": "toggle",
+        "img": "images/items/artofthesilvertongue.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "artofthesilvertongue"
+    },
+    {
+        "name": "ghostshark",
+        "type": "toggle",
+        "img": "images/items/ghostshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ghostshark"
+    },
+    {
+        "name": "enginestack",
+        "type": "toggle",
+        "img": "images/items/enginestack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "enginestack"
+    },
+    {
+        "name": "congealedrattail",
+        "type": "toggle",
+        "img": "images/items/congealedrattail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "congealedrattail"
+    },
+    {
+        "name": "tripodspiderfish",
+        "type": "toggle",
+        "img": "images/items/tripodspiderfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tripodspiderfish"
+    },
+    {
+        "name": "lancetfish",
+        "type": "toggle",
+        "img": "images/items/lancetfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lancetfish"
+    },
+    {
+        "name": "icefish",
+        "type": "toggle",
+        "img": "images/items/icefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icefish"
+    },
+    {
+        "name": "oceanicperch",
+        "type": "toggle",
+        "img": "images/items/oceanicperch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oceanicperch"
+    },
+    {
+        "name": "defacedskate",
+        "type": "toggle",
+        "img": "images/items/defacedskate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "defacedskate"
+    },
+    {
+        "name": "abyssalgar",
+        "type": "toggle",
+        "img": "images/items/abyssalgar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "abyssalgar"
+    },
+    {
+        "name": "sapphireearrings",
+        "type": "toggle",
+        "img": "images/items/sapphireearrings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sapphireearrings"
+    },
+    {
+        "name": "anchovy",
+        "type": "toggle",
+        "img": "images/items/anchovy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anchovy"
+    },
+    {
+        "name": "twistedshark",
+        "type": "toggle",
+        "img": "images/items/twistedshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twistedshark"
+    },
+    {
+        "name": "insta-crabbait",
+        "type": "toggle",
+        "img": "images/items/insta-crabbait.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "insta-crabbait"
+    },
+    {
+        "name": "refinedmetal",
+        "type": "toggle",
+        "img": "images/items/refinedmetal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "refinedmetal"
+    },
+    {
+        "name": "mouthofthedeep",
+        "type": "toggle",
+        "img": "images/items/mouthofthedeep.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mouthofthedeep"
+    },
+    {
+        "name": "savagebarracuda",
+        "type": "toggle",
+        "img": "images/items/savagebarracuda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "savagebarracuda"
+    },
+    {
+        "name": "basiccrabpot",
+        "type": "toggle",
+        "img": "images/items/basiccrabpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "basiccrabpot"
+    },
+    {
+        "name": "barreleye",
+        "type": "toggle",
+        "img": "images/items/barreleye.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barreleye"
+    },
+    {
+        "name": "lizardfish",
+        "type": "toggle",
+        "img": "images/items/lizardfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lizardfish"
+    },
+    {
+        "name": "clawfingar",
+        "type": "toggle",
+        "img": "images/items/clawfingar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clawfingar"
+    },
+    {
+        "name": "umbralpuppet",
+        "type": "toggle",
+        "img": "images/items/umbralpuppet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "umbralpuppet"
+    },
+    {
+        "name": "icebreaker",
+        "type": "toggle",
+        "img": "images/items/icebreaker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icebreaker"
+    },
+    {
+        "name": "stalkingspiderfish",
+        "type": "toggle",
+        "img": "images/items/stalkingspiderfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stalkingspiderfish"
+    },
+    {
+        "name": "brittletrawlnet",
+        "type": "toggle",
+        "img": "images/items/brittletrawlnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brittletrawlnet"
+    },
+    {
+        "name": "fireflysquid",
+        "type": "toggle",
+        "img": "images/items/fireflysquid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fireflysquid"
+    },
+    {
+        "name": "spinylobster",
+        "type": "toggle",
+        "img": "images/items/spinylobster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spinylobster"
+    },
+    {
+        "name": "clutchingnautilus",
+        "type": "toggle",
+        "img": "images/items/clutchingnautilus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clutchingnautilus"
+    },
+    {
+        "name": "many-eyedmackerel",
+        "type": "toggle",
+        "img": "images/items/many-eyedmackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "many-eyedmackerel"
+    },
+    {
+        "name": "snakemackerel",
+        "type": "toggle",
+        "img": "images/items/snakemackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snakemackerel"
+    },
+    {
+        "name": "anchovyking",
+        "type": "toggle",
+        "img": "images/items/anchovyking.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anchovyking"
+    },
+    {
+        "name": "sproutingeel",
+        "type": "toggle",
+        "img": "images/items/sproutingeel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sproutingeel"
+    },
+    {
+        "name": "radianttrawlnet",
+        "type": "toggle",
+        "img": "images/items/radianttrawlnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "radianttrawlnet"
+    },
+    {
+        "name": "sleeperstorment",
+        "type": "toggle",
+        "img": "images/items/sleeperstorment.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sleeperstorment"
+    },
+    {
+        "name": "fiddlercrab",
+        "type": "toggle",
+        "img": "images/items/fiddlercrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fiddlercrab"
+    },
+    {
+        "name": "mimicslug",
+        "type": "toggle",
+        "img": "images/items/mimicslug.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mimicslug"
+    },
+    {
+        "name": "longfineel",
+        "type": "toggle",
+        "img": "images/items/longfineel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "longfineel"
+    },
+    {
+        "name": "infusedwinch",
+        "type": "toggle",
+        "img": "images/items/infusedwinch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infusedwinch"
+    },
+    {
+        "name": "improvedtrawlnet",
+        "type": "toggle",
+        "img": "images/items/improvedtrawlnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "improvedtrawlnet"
+    },
+    {
+        "name": "iceshaper",
+        "type": "toggle",
+        "img": "images/items/iceshaper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "iceshaper"
+    },
+    {
+        "name": "blackfintuna",
+        "type": "toggle",
+        "img": "images/items/blackfintuna.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackfintuna"
+    },
+    {
+        "name": "crownofthorns",
+        "type": "toggle",
+        "img": "images/items/crownofthorns.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crownofthorns"
+    },
+    {
+        "name": "effigycrab",
+        "type": "toggle",
+        "img": "images/items/effigycrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "effigycrab"
+    },
+    {
+        "name": "kingcrab",
+        "type": "toggle",
+        "img": "images/items/kingcrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kingcrab"
+    },
+    {
+        "name": "swordfish",
+        "type": "toggle",
+        "img": "images/items/swordfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "swordfish"
+    },
+    {
+        "name": "rubyearrings",
+        "type": "toggle",
+        "img": "images/items/rubyearrings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rubyearrings"
+    },
+    {
+        "name": "anvilfish",
+        "type": "toggle",
+        "img": "images/items/anvilfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anvilfish"
+    },
+    {
+        "name": "silveringlancetfish",
+        "type": "toggle",
+        "img": "images/items/silveringlancetfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silveringlancetfish"
+    },
+    {
+        "name": "catfish",
+        "type": "toggle",
+        "img": "images/items/catfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "catfish"
+    },
+    {
+        "name": "blackmouthsalmon",
+        "type": "toggle",
+        "img": "images/items/blackmouthsalmon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackmouthsalmon"
+    },
+    {
+        "name": "harvestingplatform",
+        "type": "toggle",
+        "img": "images/items/harvestingplatform.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "harvestingplatform"
+    },
+    {
+        "name": "stonefish",
+        "type": "toggle",
+        "img": "images/items/stonefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stonefish"
+    },
+    {
+        "name": "worngoldring",
+        "type": "toggle",
+        "img": "images/items/worngoldring.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "worngoldring"
+    },
+    {
+        "name": "giantdragonfish",
+        "type": "toggle",
+        "img": "images/items/giantdragonfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giantdragonfish"
+    },
+    {
+        "name": "hardycrabpot",
+        "type": "toggle",
+        "img": "images/items/hardycrabpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hardycrabpot"
+    },
+    {
+        "name": "bloodsnapper",
+        "type": "toggle",
+        "img": "images/items/bloodsnapper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloodsnapper"
+    },
+    {
+        "name": "moonfish",
+        "type": "toggle",
+        "img": "images/items/moonfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "moonfish"
+    },
+    {
+        "name": "silverplate",
+        "type": "toggle",
+        "img": "images/items/silverplate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silverplate"
+    },
+    {
+        "name": "goliathtigerfish",
+        "type": "toggle",
+        "img": "images/items/goliathtigerfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "goliathtigerfish"
+    },
+    {
+        "name": "anglerfish",
+        "type": "toggle",
+        "img": "images/items/anglerfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anglerfish"
+    },
+    {
+        "name": "sinewspindle",
+        "type": "toggle",
+        "img": "images/items/sinewspindle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sinewspindle"
+    },
+    {
+        "name": "malignantpincer",
+        "type": "toggle",
+        "img": "images/items/malignantpincer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "malignantpincer"
+    },
+    {
+        "name": "palegrasper",
+        "type": "toggle",
+        "img": "images/items/palegrasper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "palegrasper"
+    },
+    {
+        "name": "decoratorcrab",
+        "type": "toggle",
+        "img": "images/items/decoratorcrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decoratorcrab"
+    },
+    {
+        "name": "vortexinterloper",
+        "type": "toggle",
+        "img": "images/items/vortexinterloper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vortexinterloper"
+    },
+    {
+        "name": "bluecrab",
+        "type": "toggle",
+        "img": "images/items/bluecrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bluecrab"
+    },
+    {
+        "name": "rupturedvessel",
+        "type": "toggle",
+        "img": "images/items/rupturedvessel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rupturedvessel"
+    },
+    {
+        "name": "entwinedmullet",
+        "type": "toggle",
+        "img": "images/items/entwinedmullet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "entwinedmullet"
+    },
+    {
+        "name": "giantamphipod",
+        "type": "toggle",
+        "img": "images/items/giantamphipod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giantamphipod"
+    },
+    {
+        "name": "sollasina",
+        "type": "toggle",
+        "img": "images/items/sollasina.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sollasina"
+    },
+    {
+        "name": "medusaoctopus",
+        "type": "toggle",
+        "img": "images/items/medusaoctopus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "medusaoctopus"
+    },
+    {
+        "name": "fancyboot",
+        "type": "toggle",
+        "img": "images/items/fancyboot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fancyboot"
+    },
+    {
+        "name": "oceansunfish",
+        "type": "toggle",
+        "img": "images/items/oceansunfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oceansunfish"
+    },
+    {
+        "name": "voideye",
+        "type": "toggle",
+        "img": "images/items/voideye.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "voideye"
+    },
+    {
+        "name": "gettingoveritwithmindandbody",
+        "type": "toggle",
+        "img": "images/items/gettingoveritwithmindandbody.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gettingoveritwithmindandbody"
+    },
+    {
+        "name": "opalearrings",
+        "type": "toggle",
+        "img": "images/items/opalearrings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opalearrings"
+    },
+    {
+        "name": "xenoxeno",
+        "type": "toggle",
+        "img": "images/items/xenoxeno.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "xenoxeno"
+    },
+    {
+        "name": "gelatinousstonefish",
+        "type": "toggle",
+        "img": "images/items/gelatinousstonefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gelatinousstonefish"
+    },
+    {
+        "name": "encrustedtalisman",
+        "type": "toggle",
+        "img": "images/items/encrustedtalisman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "encrustedtalisman"
+    },
+    {
+        "name": "twinnedeels",
+        "type": "toggle",
+        "img": "images/items/twinnedeels.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinnedeels"
+    },
+    {
+        "name": "excoriatedfiend",
+        "type": "toggle",
+        "img": "images/items/excoriatedfiend.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "excoriatedfiend"
+    },
+    {
+        "name": "ironhavencrate",
+        "type": "toggle",
+        "img": "images/items/ironhavencrate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ironhavencrate"
+    },
+    {
+        "name": "serpentinemackerel",
+        "type": "toggle",
+        "img": "images/items/serpentinemackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "serpentinemackerel"
+    },
+    {
+        "name": "enthralledstonefish",
+        "type": "toggle",
+        "img": "images/items/enthralledstonefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "enthralledstonefish"
+    },
+    {
+        "name": "tatteredmackerel",
+        "type": "toggle",
+        "img": "images/items/tatteredmackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tatteredmackerel"
+    },
+    {
+        "name": "arrowsquid",
+        "type": "toggle",
+        "img": "images/items/arrowsquid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arrowsquid"
+    },
+    {
+        "name": "versatilerod",
+        "type": "toggle",
+        "img": "images/items/versatilerod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "versatilerod"
+    },
+    {
+        "name": "temperedmeshnet",
+        "type": "toggle",
+        "img": "images/items/temperedmeshnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "temperedmeshnet"
+    },
+    {
+        "name": "largetrawlnetresearched",
+        "type": "toggle",
+        "img": "images/items/largetrawlnetresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "largetrawlnetresearched"
+    },
+    {
+        "name": "goblinshark",
+        "type": "toggle",
+        "img": "images/items/goblinshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "goblinshark"
+    },
+    {
+        "name": "siltfilteringtrawlnet",
+        "type": "toggle",
+        "img": "images/items/siltfilteringtrawlnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "siltfilteringtrawlnet"
+    },
+    {
+        "name": "ossifiedsearobin",
+        "type": "toggle",
+        "img": "images/items/ossifiedsearobin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ossifiedsearobin"
+    },
+    {
+        "name": "shimmeringnecklace",
+        "type": "toggle",
+        "img": "images/items/shimmeringnecklace.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shimmeringnecklace"
+    },
+    {
+        "name": "cod",
+        "type": "toggle",
+        "img": "images/items/cod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cod"
+    },
+    {
+        "name": "rods",
+        "type": "toggle",
+        "img": "images/items/rods.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rods"
+    },
+    {
+        "name": "silvertrinket",
+        "type": "toggle",
+        "img": "images/items/silvertrinket.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silvertrinket"
+    },
+    {
+        "name": "bottomlesslinesresearched",
+        "type": "toggle",
+        "img": "images/items/bottomlesslinesresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottomlesslinesresearched"
+    },
+    {
+        "name": "trilobite",
+        "type": "toggle",
+        "img": "images/items/trilobite.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trilobite"
+    },
+    {
+        "name": "tendonrod",
+        "type": "toggle",
+        "img": "images/items/tendonrod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tendonrod"
+    },
+    {
+        "name": "pearlearrings",
+        "type": "toggle",
+        "img": "images/items/pearlearrings.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pearlearrings"
+    },
+    {
+        "name": "efficientcrabpotresearched",
+        "type": "toggle",
+        "img": "images/items/efficientcrabpotresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "efficientcrabpotresearched"
+    },
+    {
+        "name": "infusedrod",
+        "type": "toggle",
+        "img": "images/items/infusedrod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infusedrod"
+    },
+    {
+        "name": "doubloon",
+        "type": "toggle",
+        "img": "images/items/doubloon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doubloon"
+    },
+    {
+        "name": "therelaxedmind",
+        "type": "toggle",
+        "img": "images/items/therelaxedmind.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "therelaxedmind"
+    },
+    {
+        "name": "riddledflounder",
+        "type": "toggle",
+        "img": "images/items/riddledflounder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "riddledflounder"
+    },
+    {
+        "name": "nipponites",
+        "type": "toggle",
+        "img": "images/items/nipponites.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nipponites"
+    },
+    {
+        "name": "bloodskinshark",
+        "type": "toggle",
+        "img": "images/items/bloodskinshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bloodskinshark"
+    },
+    {
+        "name": "twinpropengineresearched",
+        "type": "toggle",
+        "img": "images/items/twinpropengineresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinpropengineresearched"
+    },
+    {
+        "name": "nauticalengineering",
+        "type": "toggle",
+        "img": "images/items/nauticalengineering.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nauticalengineering"
+    },
+    {
+        "name": "burstinganglerfish",
+        "type": "toggle",
+        "img": "images/items/burstinganglerfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "burstinganglerfish"
+    },
+    {
+        "name": "collapsedviperfish",
+        "type": "toggle",
+        "img": "images/items/collapsedviperfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "collapsedviperfish"
+    },
+    {
+        "name": "seizingsnailfish",
+        "type": "toggle",
+        "img": "images/items/seizingsnailfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seizingsnailfish"
+    },
+    {
+        "name": "tarpon",
+        "type": "toggle",
+        "img": "images/items/tarpon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tarpon"
+    },
+    {
+        "name": "packedexplosives",
+        "type": "toggle",
+        "img": "images/items/packedexplosives.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "packedexplosives"
+    },
+    {
+        "name": "cleft-mouthshark",
+        "type": "toggle",
+        "img": "images/items/cleft-mouthshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cleft-mouthshark"
+    },
+    {
+        "name": "visceracrane",
+        "type": "toggle",
+        "img": "images/items/visceracrane.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "visceracrane"
+    },
+    {
+        "name": "pushingthelimit:engines",
+        "type": "toggle",
+        "img": "images/items/pushingthelimit:engines.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pushingthelimit:engines"
+    },
+    {
+        "name": "sanguineshark",
+        "type": "toggle",
+        "img": "images/items/sanguineshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sanguineshark"
+    },
+    {
+        "name": "imperiouslobster",
+        "type": "toggle",
+        "img": "images/items/imperiouslobster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "imperiouslobster"
+    },
+    {
+        "name": "splinteredcrab",
+        "type": "toggle",
+        "img": "images/items/splinteredcrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "splinteredcrab"
+    },
+    {
+        "name": "fallenstars",
+        "type": "toggle",
+        "img": "images/items/fallenstars.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fallenstars"
+    },
+    {
+        "name": "refinedoutboardengineresearched",
+        "type": "toggle",
+        "img": "images/items/refinedoutboardengineresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "refinedoutboardengineresearched"
+    },
+    {
+        "name": "all-seeingcod",
+        "type": "toggle",
+        "img": "images/items/all-seeingcod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "all-seeingcod"
+    },
+    {
+        "name": "kerygmachela",
+        "type": "toggle",
+        "img": "images/items/kerygmachela.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kerygmachela"
+    },
+    {
+        "name": "vetulicolia",
+        "type": "toggle",
+        "img": "images/items/vetulicolia.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vetulicolia"
+    },
+    {
+        "name": "gar",
+        "type": "toggle",
+        "img": "images/items/gar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gar"
+    },
+    {
+        "name": "bifurcatedgar",
+        "type": "toggle",
+        "img": "images/items/bifurcatedgar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bifurcatedgar"
+    },
+    {
+        "name": "weightedline",
+        "type": "toggle",
+        "img": "images/items/weightedline.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weightedline"
+    },
+    {
+        "name": "astralicefish",
+        "type": "toggle",
+        "img": "images/items/astralicefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "astralicefish"
+    },
+    {
+        "name": "largecrabpotresearched",
+        "type": "toggle",
+        "img": "images/items/largecrabpotresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "largecrabpotresearched"
+    },
+    {
+        "name": "cursedfangtooth",
+        "type": "toggle",
+        "img": "images/items/cursedfangtooth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cursedfangtooth"
+    },
+    {
+        "name": "icebreakerbracing",
+        "type": "toggle",
+        "img": "images/items/icebreakerbracing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "icebreakerbracing"
+    },
+    {
+        "name": "toothfish",
+        "type": "toggle",
+        "img": "images/items/toothfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "toothfish"
+    },
+    {
+        "name": "glaringsunfish",
+        "type": "toggle",
+        "img": "images/items/glaringsunfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glaringsunfish"
+    },
+    {
+        "name": "efficientcrabpot",
+        "type": "toggle",
+        "img": "images/items/efficientcrabpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "efficientcrabpot"
+    },
+    {
+        "name": "complexcrabpot",
+        "type": "toggle",
+        "img": "images/items/complexcrabpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "complexcrabpot"
+    },
+    {
+        "name": "lumpymackerel",
+        "type": "toggle",
+        "img": "images/items/lumpymackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lumpymackerel"
+    },
+    {
+        "name": "witheredray",
+        "type": "toggle",
+        "img": "images/items/witheredray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "witheredray"
+    },
+    {
+        "name": "sablereacher",
+        "type": "toggle",
+        "img": "images/items/sablereacher.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sablereacher"
+    },
+    {
+        "name": "lumber",
+        "type": "toggle",
+        "img": "images/items/lumber.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lumber"
+    },
+    {
+        "name": "grislyshark",
+        "type": "toggle",
+        "img": "images/items/grislyshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grislyshark"
+    },
+    {
+        "name": "heat-resistantlineresearched",
+        "type": "toggle",
+        "img": "images/items/heat-resistantlineresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heat-resistantlineresearched"
+    },
+    {
+        "name": "barbedicerod",
+        "type": "toggle",
+        "img": "images/items/barbedicerod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barbedicerod"
+    },
+    {
+        "name": "infusedcoilingrod",
+        "type": "toggle",
+        "img": "images/items/infusedcoilingrod.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infusedcoilingrod"
+    },
+    {
+        "name": "basictrawlnet",
+        "type": "toggle",
+        "img": "images/items/basictrawlnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "basictrawlnet"
+    },
+    {
+        "name": "archonsburden",
+        "type": "toggle",
+        "img": "images/items/archonsburden.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "archonsburden"
+    },
+    {
+        "name": "sawfish",
+        "type": "toggle",
+        "img": "images/items/sawfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sawfish"
+    },
+    {
+        "name": "boltofcloth",
+        "type": "toggle",
+        "img": "images/items/boltofcloth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boltofcloth"
+    },
+    {
+        "name": "congereel",
+        "type": "toggle",
+        "img": "images/items/congereel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "congereel"
+    },
+    {
+        "name": "massivecrabpot",
+        "type": "toggle",
+        "img": "images/items/massivecrabpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "massivecrabpot"
+    },
+    {
+        "name": "anti-tanglelineresearched",
+        "type": "toggle",
+        "img": "images/items/anti-tanglelineresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anti-tanglelineresearched"
+    },
+    {
+        "name": "blisteredtarpon",
+        "type": "toggle",
+        "img": "images/items/blisteredtarpon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blisteredtarpon"
+    },
+    {
+        "name": "calcifiedsnailfish",
+        "type": "toggle",
+        "img": "images/items/calcifiedsnailfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "calcifiedsnailfish"
+    },
+    {
+        "name": "squatlobster",
+        "type": "toggle",
+        "img": "images/items/squatlobster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "squatlobster"
+    },
+    {
+        "name": "voltaicgrouper",
+        "type": "toggle",
+        "img": "images/items/voltaicgrouper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "voltaicgrouper"
+    },
+    {
+        "name": "bottomlesslines",
+        "type": "toggle",
+        "img": "images/items/bottomlesslines.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bottomlesslines"
+    },
+    {
+        "name": "brokenmonocle",
+        "type": "toggle",
+        "img": "images/items/brokenmonocle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brokenmonocle"
+    },
+    {
+        "name": "sustainablefishing",
+        "type": "toggle",
+        "img": "images/items/sustainablefishing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sustainablefishing"
+    },
+    {
+        "name": "improvedoutboardengineresearched",
+        "type": "toggle",
+        "img": "images/items/improvedoutboardengineresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "improvedoutboardengineresearched"
+    },
+    {
+        "name": "devilray",
+        "type": "toggle",
+        "img": "images/items/devilray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "devilray"
+    },
+    {
+        "name": "paleskate",
+        "type": "toggle",
+        "img": "images/items/paleskate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "paleskate"
+    },
+    {
+        "name": "sailfish",
+        "type": "toggle",
+        "img": "images/items/sailfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sailfish"
+    },
+    {
+        "name": "raptshark",
+        "type": "toggle",
+        "img": "images/items/raptshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raptshark"
+    },
+    {
+        "name": "oldironchain",
+        "type": "toggle",
+        "img": "images/items/oldironchain.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "oldironchain"
+    },
+    {
+        "name": "sergeantfish",
+        "type": "toggle",
+        "img": "images/items/sergeantfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sergeantfish"
+    },
+    {
+        "name": "wolffish",
+        "type": "toggle",
+        "img": "images/items/wolffish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wolffish"
+    },
+    {
+        "name": "fathomlesswinch",
+        "type": "toggle",
+        "img": "images/items/fathomlesswinch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fathomlesswinch"
+    },
+    {
+        "name": "gulfflounder",
+        "type": "toggle",
+        "img": "images/items/gulfflounder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gulfflounder"
+    },
+    {
+        "name": "jetdriveengine",
+        "type": "toggle",
+        "img": "images/items/jetdriveengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jetdriveengine"
+    },
+    {
+        "name": "flayedmackerel",
+        "type": "toggle",
+        "img": "images/items/flayedmackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flayedmackerel"
+    },
+    {
+        "name": "anti-tangleline",
+        "type": "toggle",
+        "img": "images/items/anti-tangleline.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anti-tangleline"
+    },
+    {
+        "name": "wretchednipper",
+        "type": "toggle",
+        "img": "images/items/wretchednipper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wretchednipper"
+    },
+    {
+        "name": "snailfish",
+        "type": "toggle",
+        "img": "images/items/snailfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snailfish"
+    },
+    {
+        "name": "twinpropengine",
+        "type": "toggle",
+        "img": "images/items/twinpropengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinpropengine"
+    },
+    {
+        "name": "cyclopeanflounder",
+        "type": "toggle",
+        "img": "images/items/cyclopeanflounder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cyclopeanflounder"
+    },
+    {
+        "name": "exoticbait",
+        "type": "toggle",
+        "img": "images/items/exoticbait.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "exoticbait"
+    },
+    {
+        "name": "grinninggar",
+        "type": "toggle",
+        "img": "images/items/grinninggar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grinninggar"
+    },
+    {
+        "name": "latchingsnapper",
+        "type": "toggle",
+        "img": "images/items/latchingsnapper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "latchingsnapper"
+    },
+    {
+        "name": "rubyring",
+        "type": "toggle",
+        "img": "images/items/rubyring.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rubyring"
+    },
+    {
+        "name": "mahimahi",
+        "type": "toggle",
+        "img": "images/items/mahimahi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mahimahi"
+    },
+    {
+        "name": "heavy-dutytrawlnet",
+        "type": "toggle",
+        "img": "images/items/heavy-dutytrawlnet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heavy-dutytrawlnet"
+    },
+    {
+        "name": "largecrabpot",
+        "type": "toggle",
+        "img": "images/items/largecrabpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "largecrabpot"
+    },
+    {
+        "name": "volcanosnail",
+        "type": "toggle",
+        "img": "images/items/volcanosnail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "volcanosnail"
+    },
+    {
+        "name": "gleamingmullet",
+        "type": "toggle",
+        "img": "images/items/gleamingmullet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gleamingmullet"
+    },
+    {
+        "name": "gazingshark",
+        "type": "toggle",
+        "img": "images/items/gazingshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gazingshark"
+    },
+    {
+        "name": "invertedhusk",
+        "type": "toggle",
+        "img": "images/items/invertedhusk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "invertedhusk"
+    },
+    {
+        "name": "coelacanth",
+        "type": "toggle",
+        "img": "images/items/coelacanth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coelacanth"
+    },
+    {
+        "name": "antiquepocketwatch",
+        "type": "toggle",
+        "img": "images/items/antiquepocketwatch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "antiquepocketwatch"
+    },
+    {
+        "name": "beardedmackerel",
+        "type": "toggle",
+        "img": "images/items/beardedmackerel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beardedmackerel"
+    },
+    {
+        "name": "bagofdoubloons",
+        "type": "toggle",
+        "img": "images/items/bagofdoubloons.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bagofdoubloons"
+    },
+    {
+        "name": "versatilerodresearched",
+        "type": "toggle",
+        "img": "images/items/versatilerodresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "versatilerodresearched"
+    },
+    {
+        "name": "bronzewhaler",
+        "type": "toggle",
+        "img": "images/items/bronzewhaler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bronzewhaler"
+    },
+    {
+        "name": "decrepitviperfish",
+        "type": "toggle",
+        "img": "images/items/decrepitviperfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decrepitviperfish"
+    },
+    {
+        "name": "redsnapper",
+        "type": "toggle",
+        "img": "images/items/redsnapper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redsnapper"
+    },
+    {
+        "name": "translucentsturgeon",
+        "type": "toggle",
+        "img": "images/items/translucentsturgeon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "translucentsturgeon"
+    },
+    {
+        "name": "seastars",
+        "type": "toggle",
+        "img": "images/items/seastars.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seastars"
+    },
+    {
+        "name": "opabinia",
+        "type": "toggle",
+        "img": "images/items/opabinia.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "opabinia"
+    },
+    {
+        "name": "cuskeel",
+        "type": "toggle",
+        "img": "images/items/cuskeel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cuskeel"
+    },
+    {
+        "name": "rockcrab",
+        "type": "toggle",
+        "img": "images/items/rockcrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rockcrab"
+    },
+    {
+        "name": "arterialengine",
+        "type": "toggle",
+        "img": "images/items/arterialengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "arterialengine"
+    },
+    {
+        "name": "massivecrabpotresearched",
+        "type": "toggle",
+        "img": "images/items/massivecrabpotresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "massivecrabpotresearched"
+    },
+    {
+        "name": "metalscraps",
+        "type": "toggle",
+        "img": "images/items/metalscraps.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metalscraps"
+    },
+    {
+        "name": "bubblingchar",
+        "type": "toggle",
+        "img": "images/items/bubblingchar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bubblingchar"
+    },
+    {
+        "name": "hosteel",
+        "type": "toggle",
+        "img": "images/items/hosteel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hosteel"
+    },
+    {
+        "name": "spidercrab",
+        "type": "toggle",
+        "img": "images/items/spidercrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spidercrab"
+    },
+    {
+        "name": "giantmudcrab",
+        "type": "toggle",
+        "img": "images/items/giantmudcrab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giantmudcrab"
+    },
+    {
+        "name": "eagleshark",
+        "type": "toggle",
+        "img": "images/items/eagleshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eagleshark"
+    },
+    {
+        "name": "bonywreckfish",
+        "type": "toggle",
+        "img": "images/items/bonywreckfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bonywreckfish"
+    },
+    {
+        "name": "heat-resistantline",
+        "type": "toggle",
+        "img": "images/items/heat-resistantline.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heat-resistantline"
+    },
+    {
+        "name": "boreaspis",
+        "type": "toggle",
+        "img": "images/items/boreaspis.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boreaspis"
+    },
+    {
+        "name": "flotsamtrap",
+        "type": "toggle",
+        "img": "images/items/flotsamtrap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flotsamtrap"
+    },
+    {
+        "name": "infusedhoist",
+        "type": "toggle",
+        "img": "images/items/infusedhoist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "infusedhoist"
+    },
+    {
+        "name": "skeletalmoonfish",
+        "type": "toggle",
+        "img": "images/items/skeletalmoonfish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skeletalmoonfish"
+    },
+    {
+        "name": "emeraldring",
+        "type": "toggle",
+        "img": "images/items/emeraldring.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "emeraldring"
+    },
+    {
+        "name": "colossalsquid",
+        "type": "toggle",
+        "img": "images/items/colossalsquid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "colossalsquid"
+    },
+    {
+        "name": "stargazer",
+        "type": "toggle",
+        "img": "images/items/stargazer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stargazer"
+    },
+    {
+        "name": "stingray",
+        "type": "toggle",
+        "img": "images/items/stingray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stingray"
+    },
+    {
+        "name": "concertinabarracuda",
+        "type": "toggle",
+        "img": "images/items/concertinabarracuda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "concertinabarracuda"
+    },
+    {
+        "name": "twinjetdriveengine",
+        "type": "toggle",
+        "img": "images/items/twinjetdriveengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "twinjetdriveengine"
+    },
+    {
+        "name": "blacktipreefshark",
+        "type": "toggle",
+        "img": "images/items/blacktipreefshark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blacktipreefshark"
+    },
+    {
+        "name": "decayingblackmouth",
+        "type": "toggle",
+        "img": "images/items/decayingblackmouth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decayingblackmouth"
+    },
+    {
+        "name": "barracuda",
+        "type": "toggle",
+        "img": "images/items/barracuda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barracuda"
+    },
+    {
+        "name": "reinforcedcrabpot",
+        "type": "toggle",
+        "img": "images/items/reinforcedcrabpot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reinforcedcrabpot"
+    },
+    {
+        "name": "improvedtrawlnetresearched",
+        "type": "toggle",
+        "img": "images/items/improvedtrawlnetresearched.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "improvedtrawlnetresearched"
+    },
+    {
+        "name": "cortexdecorator",
+        "type": "toggle",
+        "img": "images/items/cortexdecorator.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cortexdecorator"
+    },
+    {
+        "name": "rustyoutboardengine",
+        "type": "toggle",
+        "img": "images/items/rustyoutboardengine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rustyoutboardengine"
+    },
+    {
+        "name": "scouringbass",
+        "type": "toggle",
+        "img": "images/items/scouringbass.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scouringbass"
+    },
+    {
+        "name": "snagsquid",
+        "type": "toggle",
+        "img": "images/items/snagsquid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snagsquid"
+    },
+    {
+        "name": "coralgrouper",
+        "type": "toggle",
+        "img": "images/items/coralgrouper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coralgrouper"
+    },
+    {
+        "name": "brutescrux",
+        "type": "toggle",
+        "img": "images/items/brutescrux.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brutescrux"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

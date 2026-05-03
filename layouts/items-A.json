@@ -1,0 +1,130 @@
+{
+    "shared_item_A_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 50,
+                        "item_width": 50,
+                        "rows": [
+                            [
+                                "antiquepocketwatch",
+                                "jewelencrustedband",
+                                "ornatekey",
+                                "shimmeringnecklace",
+                                "rustedmusicbox",
+                                "packedexplosives",
+                                "icebreakerplowhalf1",
+                                "icebreakerbracing",
+                                "icebreakerplowhalf2",
+                                "icebreaker"
+                            ],
+                            [
+                                "encrustedtalisman",
+                                "mouthofthedeep",
+                                "radianttrawlnet",
+                                "sinewspindle",
+                                "tendonrod",
+                                "visceracrane",
+                                "mixedbait",
+                                "insta-crabbait",
+                                "aberratedbait",
+                                "exoticbait"
+                            ],
+                            [
+                                "iceshaper",
+                                "oarfish",
+                                "gulpereel",
+                                "goliathtigerfish",
+                                "coelacanth",
+                                "sleepershark"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_A_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 50,
+                        "item_width": 50,
+                        "rows": [
+                            [
+                                "antiquepocketwatch",
+                                "encrustedtalisman",
+                                "iceshaper"
+                            ],
+                            [
+                                "jewelencrustedband",
+                                "mouthofthedeep",
+                                "oarfish"
+                            ],
+                            [
+                                "ornatekey",
+                                "radianttrawlnet",
+                                "gulpereel"
+                            ],
+                            [
+                                "shimmeringnecklace",
+                                "sinewspindle",
+                                "goliathtigerfish"
+                            ],
+                            [
+                                "rustedmusicbox",
+                                "tendonrod",
+                                "coelacanth"
+                            ],
+                            [
+                                "packedexplosives",
+                                "visceracrane",
+                                "sleepershark"
+                            ],
+                            [
+                                "icebreakerplowhalf1",
+                                "mixedbait"
+                            ],
+                            [
+                                "icebreakerbracing",
+                                "insta-crabbait"
+                            ],
+                            [
+                                "icebreakerplowhalf2",
+                                "aberratedbait"
+                            ],
+                            [
+                                "icebreaker",
+                                "exoticbait"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

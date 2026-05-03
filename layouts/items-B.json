@@ -1,0 +1,129 @@
+{
+    "shared_item_B_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 50,
+                        "item_width": 50,
+                        "rows": [
+                            [
+                                "simpleskimmer",
+                                "weightedline",
+                                "hydraulicrod",
+                                "flexiblefishingpole",
+                                "heat-resistantline",
+                                "anti-tangleline",
+                                "versatilerod",
+                                "harvestingplatform",
+                                "samplingdevice"
+                                
+                            ],
+                            [
+                                "bottomlesslines",
+                                "fathomlesswinch",
+                                "barbedicerod",
+                                "glaciallance",
+                                "infusedrod",
+                                "infusedwinch",
+                                "infusedhoist",
+                                "infusedfireproofrod",
+                                "infusedcoilingrod"
+                            ],
+                            [
+                                "basictrawlnet",
+                                "improvedtrawlnet",
+                                "siltfilteringtrawlnet",
+                                "temperedmeshnet",
+                                "largetrawlnet",
+                                "heavy-dutytrawlnet",
+                                "brittletrawlnet",
+                                "siphontrawler"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_B_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 50,
+                        "item_width": 50,
+                        "rows": [
+                            [
+                                "simpleskimmer",
+                                "bottomlesslines",
+                                "basictrawlnet"
+                            ],
+                            [
+                                "weightedline",
+                                "fathomlesswinch",
+                                "improvedtrawlnet"
+                            ],
+                            [
+                                "hydraulicrod",
+                                "barbedicerod",
+                                "siltfilteringtrawlnet"
+                            ],
+                            [
+                                "flexiblefishingpole",
+                                "glaciallance",
+                                "temperedmeshnet"
+                            ],
+                            [
+                                "heat-resistantline",
+                                "infusedrod",
+                                "largetrawlnet"
+                            ],
+                            [
+                                "anti-tangleline",
+                                "infusedwinch",
+                                "heavy-dutytrawlnet"
+                            ],
+                            [
+                                "versatilerod",
+                                "infusedhoist",
+                                "brittletrawlnet"
+                            ],
+                            [
+                                "harvestingplatform",
+                                "infusedfireproofrod",
+                                "siphontrawler"
+                            ],
+                            [
+                                "samplingdevice",
+                                "infusedcoilingrod"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
