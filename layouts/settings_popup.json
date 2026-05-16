@@ -25,6 +25,20 @@
                         ]
                     }
                 ]
+			},
+            {
+                "type": "group",
+                "header": "Randomizer Settings",
+                "dock": "bottom",
+                "content": [
+                    {
+				        "type": "itemgrid",
+				        "item_size": "140,70",
+				        "rows": [
+                            [ "aberrations" ]
+                        ]
+                    }
+                ]
 			}
         ]
     }

@@ -161,6 +161,14 @@ function HasIceBreaker()
 end
 
 -- //------------------------------------------------//
+-- Randomizer Settings
+
+-- ^$AberrationsRandomized
+function AberrationsRandomized()
+    return HAS("aberrations")
+end
+
+-- //------------------------------------------------//
 -- DLC
 
 --"visibility_rules":[

@@ -71,6 +71,9 @@
             {
                 "name": "All-Seeing Cod",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -90,6 +93,9 @@
             {
                 "name": "Anchovy King",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicNets"
                 ],
@@ -213,7 +219,7 @@
                 "name": "Anvilfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1"
+                    "$IronRigPhase1", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedCoastalRods"
@@ -296,6 +302,9 @@
             {
                 "name": "Archons Burden",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -500,7 +509,7 @@
                 "name": "Astral Icefish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -546,7 +555,7 @@
                 "name": "Axial Matron",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1"
+                    "$IronRigPhase1", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedCoastalRods"
@@ -567,6 +576,9 @@
             {
                 "name": "Barbed Eel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -730,6 +742,9 @@
             {
                 "name": "Beaked Moonfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods"
                 ],
@@ -749,6 +764,9 @@
             {
                 "name": "Bearded Mackerel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -769,7 +787,7 @@
                 "name": "Bifurcated Gar",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2"
+                    "$IronRigPhase2", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -1166,6 +1184,9 @@
             {
                 "name": "Blistered Tarpon",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -1186,6 +1207,9 @@
             {
                 "name": "Blood Snapper",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -1205,6 +1229,9 @@
             {
                 "name": "Bloodskin Shark",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods",
                     "^$OceanicNets"
@@ -1360,6 +1387,9 @@
             {
                 "name": "Bony Wreckfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods"
                 ],
@@ -1380,7 +1410,7 @@
                 "name": "Boreal Shell",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4"
+                    "$IronRigPhase4", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedMangroveRods"
@@ -1464,7 +1494,7 @@
                 "name": "Broken Arapaima",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4"
+                    "$IronRigPhase4", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedMangroveRods"
@@ -1542,6 +1572,9 @@
             {
                 "name": "Brood Squid",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -1561,6 +1594,9 @@
             {
                 "name": "Brutes Crux",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$MangroveRods, ^$HasPackedExplosives"
                 ],
@@ -1581,7 +1617,7 @@
                 "name": "Bubbling Char",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -1603,7 +1639,7 @@
                 "name": "Bulbous Toothfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods"
@@ -1624,6 +1660,9 @@
             {
                 "name": "Bursting Anglerfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -1643,6 +1682,9 @@
             {
                 "name": "Calcified Snailfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$HadalRods"
                 ],
@@ -1750,6 +1792,9 @@
             {
                 "name": "Cerebral Crab",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -1866,6 +1911,9 @@
             {
                 "name": "Charred Sunfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods"
                 ],
@@ -1885,6 +1933,9 @@
             {
                 "name": "Clawfin Gar",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$MangroveRods",
                     "^$MangroveNets"
@@ -1905,6 +1956,9 @@
             {
                 "name": "Cleft-mouth Shark",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods",
                     "^$OceanicNets"
@@ -1926,7 +1980,7 @@
                 "name": "Clutching Nautilus",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2"
+                    "$IronRigPhase2", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"
@@ -2045,6 +2099,9 @@
             {
                 "name": "Collapsed Viperfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -2113,6 +2170,9 @@
             {
                 "name": "Concertina Barracuda",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods"
                 ],
@@ -2132,6 +2192,9 @@
             {
                 "name": "Congealed Rattail",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$HadalRods"
                 ],
@@ -2196,6 +2259,9 @@
             {
                 "name": "Consumed Grouper",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods"
                 ],
@@ -2267,6 +2333,9 @@
             {
                 "name": "Cortex Decorator",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -2287,7 +2356,7 @@
                 "name": "Craterous Seer",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceNets"
@@ -2309,7 +2378,7 @@
                 "name": "Crawling Instar",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4"
+                    "$IronRigPhase4", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -2330,6 +2399,9 @@
             {
                 "name": "Crown of Nadir",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -2372,6 +2444,9 @@
             {
                 "name": "Cursed Fangtooth",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -2507,6 +2582,9 @@
             {
                 "name": "Cyclopean Flounder",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -2528,7 +2606,7 @@
                 "name": "Cystic Trilobite",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2"
+                    "$IronRigPhase2", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -2549,6 +2627,9 @@
             {
                 "name": "Decaying Blackmouth",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -2591,6 +2672,9 @@
             {
                 "name": "Decrepit Viperfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -2610,6 +2694,9 @@
             {
                 "name": "Defaced Skate",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$VolcanicRods",
                     "^$VolcanicNets"
@@ -2677,7 +2764,7 @@
                 "name": "Drifting Chrysalis",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3"
+                    "$IronRigPhase3", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -2808,6 +2895,9 @@
             {
                 "name": "Effigy Crab",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -2827,6 +2917,9 @@
             {
                 "name": "Entangled Crab",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -2846,6 +2939,9 @@
             {
                 "name": "Enthralled Stonefish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -2866,6 +2962,9 @@
             {
                 "name": "Entwined Mullet",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -2885,6 +2984,9 @@
             {
                 "name": "Erupting Scorpion",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "visibility_rules":[
                     "$IronRigPhase5"
                 ],
@@ -2908,7 +3010,7 @@
                 "name": "Excoriated Fiend",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5"
+                    "$IronRigPhase5", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedVolcanicRods"
@@ -2930,7 +3032,7 @@
                 "name": "Fallen Stars",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -2951,6 +3053,9 @@
             {
                 "name": "Famines End",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$HadalRods"
                 ],
@@ -2970,6 +3075,9 @@
             {
                 "name": "Fanged Cod",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -3054,7 +3162,7 @@
                 "name": "Feral Lizardfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -3172,6 +3280,9 @@
             {
                 "name": "Flayed Mackerel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -3192,7 +3303,7 @@
                 "name": "Fractalline Icefish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -3386,6 +3497,9 @@
             {
                 "name": "Gazing Shark",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods"
                 ],
@@ -3405,6 +3519,9 @@
             {
                 "name": "Gelatinous Stonefish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -3625,6 +3742,9 @@
             {
                 "name": "Glaring Sunfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods"
                 ],
@@ -3644,6 +3764,9 @@
             {
                 "name": "Gleaming Mullet",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -3715,6 +3838,9 @@
             {
                 "name": "Gnashing Perch",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -3834,6 +3960,9 @@
             {
                 "name": "Grasping Snail",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -4069,6 +4198,9 @@
             {
                 "name": "Grinning Gar",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$MangroveRods",
                     "^$MangroveNets"
@@ -4090,7 +4222,7 @@
                 "name": "Grisly Shark",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods"
@@ -4111,6 +4243,9 @@
             {
                 "name": "Grotesque Mackerel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -4271,7 +4406,7 @@
                 "name": "Hinged Wolffish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods"
@@ -4292,6 +4427,9 @@
             {
                 "name": "Hooked Sailfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods",
                     "^$OceanicNets"
@@ -4335,6 +4473,9 @@
             {
                 "name": "Host Eel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -4503,6 +4644,9 @@
             {
                 "name": "Imperious Lobster",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -4522,6 +4666,9 @@
             {
                 "name": "Infernal Eel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$VolcanicRods",
                     "^$VolcanicNets"
@@ -4543,7 +4690,7 @@
                 "name": "Inverted Husk",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1"
+                    "$IronRigPhase1", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -4565,7 +4712,7 @@
                 "name": "Ivory Impaler",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1"
+                    "$IronRigPhase1", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"
@@ -4668,7 +4815,7 @@
                 "name": "Kings Wreath",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -4758,6 +4905,9 @@
             {
                 "name": "Latching Snapper",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -4777,6 +4927,9 @@
             {
                 "name": "Leeching Prawn",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -5047,6 +5200,9 @@
             {
                 "name": "Lumpy Mackerel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -5121,6 +5277,9 @@
             {
                 "name": "Malignant Pincer",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -5140,6 +5299,9 @@
             {
                 "name": "Many-Eyed Mackerel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -5159,6 +5321,9 @@
             {
                 "name": "Medusa Octopus",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -5179,7 +5344,7 @@
                 "name": "Mimic Slug",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3"
+                    "$IronRigPhase3", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -5200,6 +5365,9 @@
             {
                 "name": "Mire Screecher",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -5362,6 +5530,9 @@
             {
                 "name": "Nightwing Catfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$MangroveRods",
                     "^$MangroveNets"
@@ -5655,6 +5826,9 @@
             {
                 "name": "Ossified Searobin",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -5812,7 +5986,7 @@
                 "name": "Pale Grasper",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceNets"
@@ -5906,6 +6080,9 @@
             {
                 "name": "Parhelion Jellyfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$CoastalNets"
                 ],
@@ -5925,6 +6102,9 @@
             {
                 "name": "Perished Loosejaw",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -5945,7 +6125,7 @@
                 "name": "Plated Barbjaw",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5"
+                    "$IronRigPhase5", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -5967,7 +6147,7 @@
                 "name": "Plated Osteostracan",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase1"
+                    "$IronRigPhase1", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -5989,7 +6169,7 @@
                 "name": "Primordial Shadow",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4"
+                    "$IronRigPhase4", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedMangroveRods"
@@ -6010,6 +6190,9 @@
             {
                 "name": "Radiant Squid",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -6029,6 +6212,9 @@
             {
                 "name": "Rapt Shark",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -6150,6 +6336,9 @@
             {
                 "name": "Razormouth Tuna",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods",
                     "^$OceanicNets"
@@ -6261,6 +6450,9 @@
             {
                 "name": "Riddled Flounder",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -6304,6 +6496,9 @@
             {
                 "name": "Ruptured Vessel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$HadalRods"
                 ],
@@ -6323,6 +6518,9 @@
             {
                 "name": "Sable Reacher",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -6422,6 +6620,9 @@
             {
                 "name": "Sallow Sailfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods",
                     "^$OceanicNets"
@@ -6443,7 +6644,7 @@
                 "name": "Sanguine Shark",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3"
+                    "$IronRigPhase3", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"
@@ -6464,6 +6665,9 @@
             {
                 "name": "Savage Barracuda",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods"
                 ],
@@ -6561,6 +6765,9 @@
             {
                 "name": "Scouring Bass",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -6684,6 +6891,9 @@
             {
                 "name": "Seizing Snailfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$HadalRods"
                 ],
@@ -6791,6 +7001,9 @@
             {
                 "name": "Serpentine Mackerel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -6810,6 +7023,9 @@
             {
                 "name": "Shapers Prime",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods, ^$HasPackedExplosives"
                 ],
@@ -6829,6 +7045,9 @@
             {
                 "name": "Shard Ray",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods"
                 ],
@@ -6848,6 +7067,9 @@
             {
                 "name": "Shattered Wreckfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods"
                 ],
@@ -6868,7 +7090,7 @@
                 "name": "Silvering Lancetfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2"
+                    "$IronRigPhase2", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedCoastalRods"
@@ -6889,6 +7111,9 @@
             {
                 "name": "Skeletal Moonfish",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods"
                 ],
@@ -6950,7 +7175,7 @@
                 "name": "Sleepers Torment",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods, ^$HasIceBreaker"
@@ -6971,6 +7196,9 @@
             {
                 "name": "Snag Squid",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -7238,6 +7466,9 @@
             {
                 "name": "Splintered Crab",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -7257,6 +7488,9 @@
             {
                 "name": "Sprouting Eel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods"
                 ],
@@ -7300,7 +7534,7 @@
                 "name": "Stalking Spiderfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3"
+                    "$IronRigPhase3", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -7670,6 +7904,9 @@
             {
                 "name": "Tattered Mackerel",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -7690,7 +7927,7 @@
                 "name": "Thawed Icefish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$PaleReachDLC"
+                    "$PaleReachDLC", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$IceRods",
@@ -7712,6 +7949,9 @@
             {
                 "name": "Three-Headed Cod",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -7897,6 +8137,9 @@
             {
                 "name": "Translucent Sturgeon",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods",
                     "^$OceanicNets"
@@ -8051,6 +8294,9 @@
             {
                 "name": "Tusked Grouper",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -8071,6 +8317,9 @@
             {
                 "name": "Twinned Eels",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$MangroveRods"
                 ],
@@ -8090,6 +8339,9 @@
             {
                 "name": "Twisted Shark",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$VolcanicRods"
                 ],
@@ -8109,6 +8361,9 @@
             {
                 "name": "Umbral Puppet",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     " "
                 ],
@@ -8129,7 +8384,7 @@
                 "name": "Untouchable Wyrmfish",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5"
+                    "$IronRigPhase5", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedAbyssalOrHadalRods"
@@ -8151,7 +8406,7 @@
                 "name": "Unveiled Vetulicolia",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase5"
+                    "$IronRigPhase5", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedVolcanicRods"
@@ -8173,7 +8428,7 @@
                 "name": "Vagrant Sollasina",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase2"
+                    "$IronRigPhase2", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedShallowRods"
@@ -8361,6 +8616,9 @@
             {
                 "name": "Voideye",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$AbyssalRods"
                 ],
@@ -8403,6 +8661,9 @@
             {
                 "name": "Voltaic Grouper",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$ShallowRods",
                     "^$ShallowNets"
@@ -8423,6 +8684,9 @@
             {
                 "name": "Vortex Interloper",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$MangroveRods",
                     "^$MangroveNets"
@@ -8443,6 +8707,9 @@
             {
                 "name": "Withered Ray",
                 "overlay_background": "#000000",
+                "visibility_rules": [
+                    "^$AberrationsRandomized"
+                ],
                 "access_rules": [
                     "^$OceanicRods",
                     "^$OceanicNets"
@@ -8624,7 +8891,7 @@
                 "name": "Wretched Nipper",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase4"
+                    "$IronRigPhase4", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     " "
@@ -8646,7 +8913,7 @@
                 "name": "Xeno Xeno",
                 "overlay_background": "#000000",
                 "visibility_rules":[
-                    "$IronRigPhase3"
+                    "$IronRigPhase3", "^$AberrationsRandomized"
                 ],
                 "access_rules": [
                     "^$InfusedOceanicRods"

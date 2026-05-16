@@ -14,6 +14,14 @@
         "codes": "ironrigDLC"
     },
     {
+        "name": "aberrations",
+        "type": "toggle",
+        "loop": true, 
+        "img": "images/settings/aberrations.png",
+        "initial_active_state": true,
+        "codes": "aberrations"
+    },
+    {
         "name": "ironrigDLCprogression",
         "type": "progressive",
         "allow_disabled": false,
