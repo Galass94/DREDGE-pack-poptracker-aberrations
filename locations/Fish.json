@@ -881,49 +881,57 @@
                         "map": "Gale Cliffs",
                         "x": 304,
                         "y": 164,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     },
                     {
                         "map": "Gale Cliffs",
                         "x": 165,
                         "y": 329,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     },
                     {
                         "map": "Gale Cliffs",
                         "x": 309,
                         "y": 437,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     },
                     {
                         "map": "Gale Cliffs",
                         "x": 435,
                         "y": 400,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     },
                     {
                         "map": "Gale Cliffs",
                         "x": 556,
                         "y": 449,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     },
                     {
                         "map": "Gale Cliffs",
                         "x": 559,
                         "y": 67,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     },
                     {
                         "map": "Gale Cliffs",
                         "x": 632,
                         "y": 178,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     },
                     {
                         "map": "Gale Cliffs",
                         "x": 338,
                         "y": 27,
-                        "size": 5
+                        "size": 5,
+                        "shape": "diamond"
                     }
                 ]
             },
